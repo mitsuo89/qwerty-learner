@@ -1,0 +1,8977 @@
+[
+  {
+    "name": "yushutsu",
+    "trans": [
+      "export"
+    ],
+    "notation": "輸出(ゆしゅつ)"
+  },
+  {
+    "name": "you",
+    "trans": [
+      "to get drunk,to become intoxicated"
+    ],
+    "notation": "酔(よ)う"
+  },
+  {
+    "name": "shosai",
+    "trans": [
+      "study"
+    ],
+    "notation": "書斎(しょさい)"
+  },
+  {
+    "name": "juyou",
+    "trans": [
+      "demand,request"
+    ],
+    "notation": "需要(じゅよう)"
+  },
+  {
+    "name": "kokugo",
+    "trans": [
+      "national language"
+    ],
+    "notation": "国語(こくご)"
+  },
+  {
+    "name": "irasshai",
+    "trans": [
+      "welcome"
+    ],
+    "notation": "いらっしゃい"
+  },
+  {
+    "name": "hori",
+    "trans": [
+      "moat"
+    ],
+    "notation": "濠(ほり)"
+  },
+  {
+    "name": "kei",
+    "trans": [
+      "plan"
+    ],
+    "notation": "計(けい)"
+  },
+  {
+    "name": "tema",
+    "trans": [
+      "time,labour"
+    ],
+    "notation": "手間(てま)"
+  },
+  {
+    "name": "shitaku",
+    "trans": [
+      "preparation"
+    ],
+    "notation": "支度(したく)"
+  },
+  {
+    "name": "daijin",
+    "trans": [
+      "cabinet minister"
+    ],
+    "notation": "大臣(だいじん)"
+  },
+  {
+    "name": "kago",
+    "trans": [
+      "basket,cage"
+    ],
+    "notation": "籠(かご)"
+  },
+  {
+    "name": "chuu",
+    "trans": [
+      "annotation,explanatory note"
+    ],
+    "notation": "注(ちゅう)"
+  },
+  {
+    "name": "arubamu",
+    "trans": [
+      "album"
+    ],
+    "notation": "アルバム"
+  },
+  {
+    "name": "abiru",
+    "trans": [
+      "to bathe,to bask in the sun,to shower"
+    ],
+    "notation": "浴(あ)びる"
+  },
+  {
+    "name": "iwau",
+    "trans": [
+      "to congratulate,to celebrate"
+    ],
+    "notation": "祝(いわ)う"
+  },
+  {
+    "name": "paasento",
+    "trans": [
+      "percent"
+    ],
+    "notation": "パーセント"
+  },
+  {
+    "name": "jettoki",
+    "trans": [
+      "jet aeroplane"
+    ],
+    "notation": "ジェット機(き)"
+  },
+  {
+    "name": "mina",
+    "trans": [
+      "all,everyone,everybody"
+    ],
+    "notation": "皆(みな)"
+  },
+  {
+    "name": "oyobosu",
+    "trans": [
+      "to exert,to cause,to exercise"
+    ],
+    "notation": "及(およ)ぼす"
+  },
+  {
+    "name": "bentou",
+    "trans": [
+      "box lunch"
+    ],
+    "notation": "弁当(べんとう)"
+  },
+  {
+    "name": "hihan",
+    "trans": [
+      "criticism,judgement,comment"
+    ],
+    "notation": "批判(ひはん)"
+  },
+  {
+    "name": "kokumotsu",
+    "trans": [
+      "grain,cereal,corn"
+    ],
+    "notation": "穀物(こくもつ)"
+  },
+  {
+    "name": "tsukeru",
+    "trans": [
+      "to attach,to join,to add,to append"
+    ],
+    "notation": "付(つ)ける"
+  },
+  {
+    "name": "kaa",
+    "trans": [
+      "car"
+    ],
+    "notation": "カー"
+  },
+  {
+    "name": "renzoku",
+    "trans": [
+      "serial,consecutive,continuity,continuing"
+    ],
+    "notation": "連続(れんぞく)"
+  },
+  {
+    "name": "son",
+    "trans": [
+      "loss,disadvantage"
+    ],
+    "notation": "損(そん)"
+  },
+  {
+    "name": "shuudan",
+    "trans": [
+      "group,mass"
+    ],
+    "notation": "集団(しゅうだん)"
+  },
+  {
+    "name": "yobou",
+    "trans": [
+      "prevention,precaution,protection against"
+    ],
+    "notation": "予防(よぼう)"
+  },
+  {
+    "name": "tamatama",
+    "trans": [
+      "casually,unexpectedly,accidentally,by chance"
+    ],
+    "notation": "偶々(たまたま)"
+  },
+  {
+    "name": "tatoe",
+    "trans": [
+      "simile,metaphor,allegory"
+    ],
+    "notation": "たとえ"
+  },
+  {
+    "name": "egaku",
+    "trans": [
+      "to draw,to paint,to sketch,to depict,to describe"
+    ],
+    "notation": "描(えが)く"
+  },
+  {
+    "name": "deha",
+    "trans": [
+      "chance of going out,opportunity (to succeed),moment of departure,beginning of work"
+    ],
+    "notation": "では"
+  },
+  {
+    "name": "kekkan",
+    "trans": [
+      "defect,fault,deficiency"
+    ],
+    "notation": "欠陥(けっかん)"
+  },
+  {
+    "name": "shimai",
+    "trans": [
+      "sisters"
+    ],
+    "notation": "姉妹(しまい)"
+  },
+  {
+    "name": "kumu",
+    "trans": [
+      "to put together"
+    ],
+    "notation": "組(く)む"
+  },
+  {
+    "name": "tsutome",
+    "trans": [
+      "(1) service,duty,(2) Buddhist religious services"
+    ],
+    "notation": "務(つと)め"
+  },
+  {
+    "name": "dareka",
+    "trans": [
+      "someone,somebody"
+    ],
+    "notation": "誰(だれ)か"
+  },
+  {
+    "name": "gurasu",
+    "trans": [
+      "(1) glass,(2) grass"
+    ],
+    "notation": "グラス"
+  },
+  {
+    "name": "sono",
+    "trans": [
+      "the,that"
+    ],
+    "notation": "その"
+  },
+  {
+    "name": "shina",
+    "trans": [
+      "thing,article,goods,dignity,article (goods),counter for meal courses"
+    ],
+    "notation": "品(しな)"
+  },
+  {
+    "name": "yousuruni",
+    "trans": [
+      "in a word,after all,the point is ..,in short .."
+    ],
+    "notation": "要(よう)するに"
+  },
+  {
+    "name": "seido",
+    "trans": [
+      "system,institution,organization"
+    ],
+    "notation": "制度(せいど)"
+  },
+  {
+    "name": "yobun",
+    "trans": [
+      "extra,excess,surplus"
+    ],
+    "notation": "余分(よぶん)"
+  },
+  {
+    "name": "kinsen",
+    "trans": [
+      "money,cash"
+    ],
+    "notation": "金銭(きんせん)"
+  },
+  {
+    "name": "kan",
+    "trans": [
+      "pipe,tube"
+    ],
+    "notation": "勘(かん)"
+  },
+  {
+    "name": "damaru",
+    "trans": [
+      "to be silent"
+    ],
+    "notation": "黙(だま)る"
+  },
+  {
+    "name": "gun",
+    "trans": [
+      "army,force,troops"
+    ],
+    "notation": "軍(ぐん)"
+  },
+  {
+    "name": "menbaa",
+    "trans": [
+      "member"
+    ],
+    "notation": "メンバー"
+  },
+  {
+    "name": "teishutsu",
+    "trans": [
+      "presentation,submission,filing"
+    ],
+    "notation": "提出(ていしゅつ)"
+  },
+  {
+    "name": "soudan",
+    "trans": [
+      "consultation,discussion"
+    ],
+    "notation": "相談(そうだん)"
+  },
+  {
+    "name": "uisukii",
+    "trans": [
+      "whisky"
+    ],
+    "notation": "ウイスキー"
+  },
+  {
+    "name": "jikken",
+    "trans": [
+      "experiment"
+    ],
+    "notation": "実験(じっけん)"
+  },
+  {
+    "name": "kyougi",
+    "trans": [
+      "game,match,contest"
+    ],
+    "notation": "競技(きょうぎ)"
+  },
+  {
+    "name": "kazu",
+    "trans": [
+      "number,figure"
+    ],
+    "notation": "数(かず)"
+  },
+  {
+    "name": "en",
+    "trans": [
+      "circle,money"
+    ],
+    "notation": "円(えん)"
+  },
+  {
+    "name": "nande",
+    "trans": [
+      "Why?,What for?"
+    ],
+    "notation": "何(なん)で"
+  },
+  {
+    "name": "ii",
+    "trans": [
+      "good"
+    ],
+    "notation": "いい"
+  },
+  {
+    "name": "shinpai",
+    "trans": [
+      "worry,concern,anxiety,care"
+    ],
+    "notation": "心配(しんぱい)"
+  },
+  {
+    "name": "sue",
+    "trans": [
+      "the end of,powder"
+    ],
+    "notation": "末(すえ)"
+  },
+  {
+    "name": "suimin",
+    "trans": [
+      "sleep"
+    ],
+    "notation": "睡眠(すいみん)"
+  },
+  {
+    "name": "chishiki",
+    "trans": [
+      "knowledge,information"
+    ],
+    "notation": "知識(ちしき)"
+  },
+  {
+    "name": "zeitaku",
+    "trans": [
+      "luxury,extravagance"
+    ],
+    "notation": "贅沢(ぜいたく)"
+  },
+  {
+    "name": "seiri",
+    "trans": [
+      "sorting,arrangement,adjustment,regulation"
+    ],
+    "notation": "整理(せいり)"
+  },
+  {
+    "name": "ataru",
+    "trans": [
+      "to be hit,to be successful,to be equivalent to"
+    ],
+    "notation": "当(あ)たる"
+  },
+  {
+    "name": "itsumo",
+    "trans": [
+      "always,usually,every time,never (with neg. verb)"
+    ],
+    "notation": "いつも"
+  },
+  {
+    "name": "yuiitsu",
+    "trans": [
+      "only,sole,unique"
+    ],
+    "notation": "唯一(ゆいいつ)"
+  },
+  {
+    "name": "umare",
+    "trans": [
+      "birth,birth-place"
+    ],
+    "notation": "生(う)まれ"
+  },
+  {
+    "name": "kigyou",
+    "trans": [
+      "enterprise,undertaking"
+    ],
+    "notation": "企業(きぎょう)"
+  },
+  {
+    "name": "doraibu",
+    "trans": [
+      "drive,trip by car,driving"
+    ],
+    "notation": "ドライブ"
+  },
+  {
+    "name": "kiyou",
+    "trans": [
+      "skillful,handy"
+    ],
+    "notation": "器用(きよう)"
+  },
+  {
+    "name": "mukai",
+    "trans": [
+      "facing,opposite,across the street,other side"
+    ],
+    "notation": "向(む)かい"
+  },
+  {
+    "name": "keiyaku",
+    "trans": [
+      "contract,compact,agreement"
+    ],
+    "notation": "契約(けいやく)"
+  },
+  {
+    "name": "yunyuu",
+    "trans": [
+      "importation,import,introduction"
+    ],
+    "notation": "輸入(ゆにゅう)"
+  },
+  {
+    "name": "nyuuin",
+    "trans": [
+      "hospitalization"
+    ],
+    "notation": "入院(にゅういん)"
+  },
+  {
+    "name": "hanzai",
+    "trans": [
+      "crime"
+    ],
+    "notation": "犯罪(はんざい)"
+  },
+  {
+    "name": "wa",
+    "trans": [
+      "ring,hoop,circle"
+    ],
+    "notation": "輪(わ)"
+  },
+  {
+    "name": "yahari",
+    "trans": [
+      "also,as I thought,still,in spite of,absolutely,of course"
+    ],
+    "notation": "やはり"
+  },
+  {
+    "name": "toki",
+    "trans": [
+      "(1) time,hour,(2) occasion,moment"
+    ],
+    "notation": "時(とき)"
+  },
+  {
+    "name": "hata",
+    "trans": [
+      "flag"
+    ],
+    "notation": "旗(はた)"
+  },
+  {
+    "name": "shuusei",
+    "trans": [
+      "amendment,correction,revision,modification"
+    ],
+    "notation": "修正(しゅうせい)"
+  },
+  {
+    "name": "furo",
+    "trans": [
+      "bath"
+    ],
+    "notation": "風呂(ふろ)"
+  },
+  {
+    "name": "yatou",
+    "trans": [
+      "to employ,to hire"
+    ],
+    "notation": "雇(やと)う"
+  },
+  {
+    "name": "toranpu",
+    "trans": [
+      "playing cards (lit: trump)"
+    ],
+    "notation": "トランプ"
+  },
+  {
+    "name": "keiken",
+    "trans": [
+      "experience"
+    ],
+    "notation": "経験(けいけん)"
+  },
+  {
+    "name": "getsuyou",
+    "trans": [
+      "Monday"
+    ],
+    "notation": "月曜(げつよう)"
+  },
+  {
+    "name": "tennen",
+    "trans": [
+      "nature,spontaneity"
+    ],
+    "notation": "天然(てんねん)"
+  },
+  {
+    "name": "shuunyuu",
+    "trans": [
+      "income,receipts,revenue"
+    ],
+    "notation": "収入(しゅうにゅう)"
+  },
+  {
+    "name": "yuka",
+    "trans": [
+      "floor"
+    ],
+    "notation": "床(ゆか)"
+  },
+  {
+    "name": "joutou",
+    "trans": [
+      "superiority,first class,very good"
+    ],
+    "notation": "上等(じょうとう)"
+  },
+  {
+    "name": "riku",
+    "trans": [
+      "six (used in legal documents)"
+    ],
+    "notation": "陸(りく)"
+  },
+  {
+    "name": "hodou",
+    "trans": [
+      "footpath,walkway,sidewalk"
+    ],
+    "notation": "歩道(ほどう)"
+  },
+  {
+    "name": "anki",
+    "trans": [
+      "memorization,learning by heart"
+    ],
+    "notation": "暗記(あんき)"
+  },
+  {
+    "name": "kazu",
+    "trans": [
+      "number,figure"
+    ],
+    "notation": "数(かず)"
+  },
+  {
+    "name": "mawasu",
+    "trans": [
+      "to turn,to revolve"
+    ],
+    "notation": "回(まわ)す"
+  },
+  {
+    "name": "saru",
+    "trans": [
+      "to leave,to go away"
+    ],
+    "notation": "去(さ)る"
+  },
+  {
+    "name": "nokori",
+    "trans": [
+      "remnant,residue,remaining,left-over"
+    ],
+    "notation": "残(のこ)り"
+  },
+  {
+    "name": "kyuu",
+    "trans": [
+      "nine"
+    ],
+    "notation": "九(きゅう)"
+  },
+  {
+    "name": "shisou",
+    "trans": [
+      "thought,idea"
+    ],
+    "notation": "思想(しそう)"
+  },
+  {
+    "name": "ikura",
+    "trans": [
+      "how much?,how many?"
+    ],
+    "notation": "幾(いく)ら"
+  },
+  {
+    "name": "fushi",
+    "trans": [
+      "tune,tone,knot,knob,point"
+    ],
+    "notation": "節(ふし)"
+  },
+  {
+    "name": "sayuu",
+    "trans": [
+      "(1) left and right,(2) influence,control,domination"
+    ],
+    "notation": "左右(さゆう)"
+  },
+  {
+    "name": "shokuryou",
+    "trans": [
+      "provisions,rations"
+    ],
+    "notation": "食糧(しょくりょう)"
+  },
+  {
+    "name": "kinyuu",
+    "trans": [
+      "monetary circulation,credit situation"
+    ],
+    "notation": "金融(きんゆう)"
+  },
+  {
+    "name": "uketoru",
+    "trans": [
+      "to receive,to get,to accept,to take"
+    ],
+    "notation": "受(う)け取(と)る"
+  },
+  {
+    "name": "kouryo",
+    "trans": [
+      "consideration,taking into account"
+    ],
+    "notation": "考慮(こうりょ)"
+  },
+  {
+    "name": "shimesu",
+    "trans": [
+      "to denote,to show,to point out,to indicate"
+    ],
+    "notation": "示(しめ)す"
+  },
+  {
+    "name": "kagayaku",
+    "trans": [
+      "to shine,to glitter,to sparkle"
+    ],
+    "notation": "輝(かがや)く"
+  },
+  {
+    "name": "nazo",
+    "trans": [
+      "riddle,puzzle,enigma"
+    ],
+    "notation": "謎(なぞ)"
+  },
+  {
+    "name": "kaishi",
+    "trans": [
+      "start,commencement,beginning"
+    ],
+    "notation": "開始(かいし)"
+  },
+  {
+    "name": "sonouchi",
+    "trans": [
+      "eventually,sooner or later,of the previously mentioned"
+    ],
+    "notation": "そのうち"
+  },
+  {
+    "name": "kosu",
+    "trans": [
+      "to go over (e.g. with audience)"
+    ],
+    "notation": "越(こ)す"
+  },
+  {
+    "name": "nenkan",
+    "trans": [
+      "year"
+    ],
+    "notation": "年間(ねんかん)"
+  },
+  {
+    "name": "marui",
+    "trans": [
+      "round,circular,spherical"
+    ],
+    "notation": "丸(まる)い"
+  },
+  {
+    "name": "souchi",
+    "trans": [
+      "equipment,installation,apparatus"
+    ],
+    "notation": "装置(そうち)"
+  },
+  {
+    "name": "annani",
+    "trans": [
+      "to that extent,to that degree"
+    ],
+    "notation": "あんなに"
+  },
+  {
+    "name": "noki",
+    "trans": [
+      "eaves"
+    ],
+    "notation": "軒(のき)"
+  },
+  {
+    "name": "gokai",
+    "trans": [
+      "misunderstanding"
+    ],
+    "notation": "誤解(ごかい)"
+  },
+  {
+    "name": "saitei",
+    "trans": [
+      "least,lowest,worst"
+    ],
+    "notation": "最低(さいてい)"
+  },
+  {
+    "name": "kagu",
+    "trans": [
+      "furniture"
+    ],
+    "notation": "家具(かぐ)"
+  },
+  {
+    "name": "osoraku",
+    "trans": [
+      "perhaps"
+    ],
+    "notation": "おそらく"
+  },
+  {
+    "name": "juuyou",
+    "trans": [
+      "important,momentous,essential,principal,major"
+    ],
+    "notation": "重要(じゅうよう)"
+  },
+  {
+    "name": "manichi",
+    "trans": [
+      "by some chance,by some possibility,if by any chance,10E4:1 odds"
+    ],
+    "notation": "万一(まんいち)"
+  },
+  {
+    "name": "shori",
+    "trans": [
+      "processing,dealing with,treatment,disposition,disposal"
+    ],
+    "notation": "処理(しょり)"
+  },
+  {
+    "name": "waruguchi",
+    "trans": [
+      "abuse,insult,slander,evil speaking"
+    ],
+    "notation": "悪口(わるぐち)"
+  },
+  {
+    "name": "touji",
+    "trans": [
+      "at that time,in those days"
+    ],
+    "notation": "当時(とうじ)"
+  },
+  {
+    "name": "jitsuni",
+    "trans": [
+      "indeed,truly,surely"
+    ],
+    "notation": "実(じつ)に"
+  },
+  {
+    "name": "sanka",
+    "trans": [
+      "participation"
+    ],
+    "notation": "参加(さんか)"
+  },
+  {
+    "name": "arashi",
+    "trans": [
+      "storm,tempest"
+    ],
+    "notation": "嵐(あらし)"
+  },
+  {
+    "name": "douryou",
+    "trans": [
+      "coworker,colleague,associate"
+    ],
+    "notation": "同僚(どうりょう)"
+  },
+  {
+    "name": "maaketto",
+    "trans": [
+      "market"
+    ],
+    "notation": "マーケット"
+  },
+  {
+    "name": "kakugo",
+    "trans": [
+      "resolution,resignation,readiness,preparedness"
+    ],
+    "notation": "覚悟(かくご)"
+  },
+  {
+    "name": "kanri",
+    "trans": [
+      "control,management (e.g. of a business)"
+    ],
+    "notation": "管理(かんり)"
+  },
+  {
+    "name": "tokoroga",
+    "trans": [
+      "however,while,even if"
+    ],
+    "notation": "ところが"
+  },
+  {
+    "name": "kashi",
+    "trans": [
+      "pastry"
+    ],
+    "notation": "貸(か)し"
+  },
+  {
+    "name": "kurai",
+    "trans": [
+      "grade,rank,about"
+    ],
+    "notation": "位(くらい)"
+  },
+  {
+    "name": "kanemochi",
+    "trans": [
+      "rich man"
+    ],
+    "notation": "金持(かねも)ち"
+  },
+  {
+    "name": "sainou",
+    "trans": [
+      "talent,ability"
+    ],
+    "notation": "才能(さいのう)"
+  },
+  {
+    "name": "biiru",
+    "trans": [
+      "beer"
+    ],
+    "notation": "ビール"
+  },
+  {
+    "name": "soreto",
+    "trans": [
+      ""
+    ],
+    "notation": "それと"
+  },
+  {
+    "name": "doryoku",
+    "trans": [
+      "great effort,exertion,endeavour,effort"
+    ],
+    "notation": "努力(どりょく)"
+  },
+  {
+    "name": "gakushuu",
+    "trans": [
+      "study,learning"
+    ],
+    "notation": "学習(がくしゅう)"
+  },
+  {
+    "name": "seifu",
+    "trans": [
+      "government,administration"
+    ],
+    "notation": "政府(せいふ)"
+  },
+  {
+    "name": "tsuki",
+    "trans": [
+      "moon,month"
+    ],
+    "notation": "月(つき)"
+  },
+  {
+    "name": "kawaisou",
+    "trans": [
+      "poor,pitiable,pathetic"
+    ],
+    "notation": "かわいそう"
+  },
+  {
+    "name": "do",
+    "trans": [
+      "earth,soil"
+    ],
+    "notation": "土(ど)"
+  },
+  {
+    "name": "sei",
+    "trans": [
+      "sex,gender"
+    ],
+    "notation": "性(せい)"
+  },
+  {
+    "name": "seizou",
+    "trans": [
+      "manufacture,production"
+    ],
+    "notation": "製造(せいぞう)"
+  },
+  {
+    "name": "jouhou",
+    "trans": [
+      "information,(military) intelligence"
+    ],
+    "notation": "情報(じょうほう)"
+  },
+  {
+    "name": "tani",
+    "trans": [
+      "unit,denomination,credit (in school)"
+    ],
+    "notation": "単位(たんい)"
+  },
+  {
+    "name": "modosu",
+    "trans": [
+      "to restore,to put back,to return"
+    ],
+    "notation": "戻(もど)す"
+  },
+  {
+    "name": "shoujo",
+    "trans": [
+      "daughter,young lady,virgin,maiden,little girl"
+    ],
+    "notation": "少女(しょうじょ)"
+  },
+  {
+    "name": "konnichiha",
+    "trans": [
+      "hello,good day (daytime greeting, id)"
+    ],
+    "notation": "こんにちは"
+  },
+  {
+    "name": "datte",
+    "trans": [
+      "but,because,even,also,too"
+    ],
+    "notation": "だって"
+  },
+  {
+    "name": "gaka",
+    "trans": [
+      "painter,artist"
+    ],
+    "notation": "画家(がか)"
+  },
+  {
+    "name": "genzai",
+    "trans": [
+      "present,up to now,nowadays,modern times,current"
+    ],
+    "notation": "現在(げんざい)"
+  },
+  {
+    "name": "funiki",
+    "trans": [
+      "atmosphere (e.g. musical),mood,ambience"
+    ],
+    "notation": "雰囲気(ふんいき)"
+  },
+  {
+    "name": "doutoku",
+    "trans": [
+      "morals"
+    ],
+    "notation": "道徳(どうとく)"
+  },
+  {
+    "name": "irai",
+    "trans": [
+      "(1) request,commission,dispatch,(2) dependence,trust"
+    ],
+    "notation": "依頼(いらい)"
+  },
+  {
+    "name": "-kyuu",
+    "trans": [
+      "ex"
+    ],
+    "notation": "-旧(きゅう)"
+  },
+  {
+    "name": "uwasa",
+    "trans": [
+      "rumour,report,gossip,common talk"
+    ],
+    "notation": "噂(うわさ)"
+  },
+  {
+    "name": "sekkei",
+    "trans": [
+      "plan,design"
+    ],
+    "notation": "設計(せっけい)"
+  },
+  {
+    "name": "ayamari",
+    "trans": [
+      "error"
+    ],
+    "notation": "誤(あやま)り"
+  },
+  {
+    "name": "kuwawaru",
+    "trans": [
+      "to join in,to accede to,to increase,to gain in (influence)"
+    ],
+    "notation": "加(くわ)わる"
+  },
+  {
+    "name": "yaku",
+    "trans": [
+      "approximately,about,some"
+    ],
+    "notation": "役(やく)"
+  },
+  {
+    "name": "yaburu",
+    "trans": [
+      "to tear,to violate,to defeat,to smash,to destroy"
+    ],
+    "notation": "破(やぶ)る"
+  },
+  {
+    "name": "zaisan",
+    "trans": [
+      "property,fortune,assets"
+    ],
+    "notation": "財産(ざいさん)"
+  },
+  {
+    "name": "kenchiku",
+    "trans": [
+      "construction,architecture"
+    ],
+    "notation": "建築(けんちく)"
+  },
+  {
+    "name": "houseki",
+    "trans": [
+      "gem,jewel"
+    ],
+    "notation": "宝石(ほうせき)"
+  },
+  {
+    "name": "yononaka",
+    "trans": [
+      "society,the world,the times"
+    ],
+    "notation": "世(よ)の中(なか)"
+  },
+  {
+    "name": "shujutsu",
+    "trans": [
+      "surgical operation"
+    ],
+    "notation": "手術(しゅじゅつ)"
+  },
+  {
+    "name": "sodatsu",
+    "trans": [
+      "to raise (child),to be brought up,to grow (up)"
+    ],
+    "notation": "育(そだ)つ"
+  },
+  {
+    "name": "araware",
+    "trans": [
+      "embodiment,materialization"
+    ],
+    "notation": "現(あらわ)れ"
+  },
+  {
+    "name": "kusai",
+    "trans": [
+      "odour,scent,smell,stench"
+    ],
+    "notation": "臭(くさ)い"
+  },
+  {
+    "name": "zu",
+    "trans": [
+      "figure (e.g. Fig 1),drawing,picture,illustration"
+    ],
+    "notation": "図(ず)"
+  },
+  {
+    "name": "desukara",
+    "trans": [
+      "therefore"
+    ],
+    "notation": "ですから"
+  },
+  {
+    "name": "unten",
+    "trans": [
+      "operation,motion,driving"
+    ],
+    "notation": "運転(うんてん)"
+  },
+  {
+    "name": "dakara",
+    "trans": [
+      "so,therefore"
+    ],
+    "notation": "だから"
+  },
+  {
+    "name": "kawa",
+    "trans": [
+      "river"
+    ],
+    "notation": "川(かわ)"
+  },
+  {
+    "name": "de",
+    "trans": [
+      "outflow,coming (going) out,graduate (of)"
+    ],
+    "notation": "で"
+  },
+  {
+    "name": "chouki",
+    "trans": [
+      "long time period"
+    ],
+    "notation": "長期(ちょうき)"
+  },
+  {
+    "name": "touchaku",
+    "trans": [
+      "arrival"
+    ],
+    "notation": "到着(とうちゃく)"
+  },
+  {
+    "name": "hazusu",
+    "trans": [
+      "to unfasten,to remove"
+    ],
+    "notation": "外(はず)す"
+  },
+  {
+    "name": "sukoshimo",
+    "trans": [
+      "anything of,not one bit"
+    ],
+    "notation": "少(すこ)しも"
+  },
+  {
+    "name": "gaku",
+    "trans": [
+      "learning,scholarship,erudition,knowledge"
+    ],
+    "notation": "額(がく)"
+  },
+  {
+    "name": "manabu",
+    "trans": [
+      "to study (in depth),to learn,to take lessons in"
+    ],
+    "notation": "学(まな)ぶ"
+  },
+  {
+    "name": "betsuni",
+    "trans": [
+      "(not) particularly,nothing"
+    ],
+    "notation": "別(べつ)に"
+  },
+  {
+    "name": "atsukau",
+    "trans": [
+      "to handle,to deal with,to treat"
+    ],
+    "notation": "扱(あつか)う"
+  },
+  {
+    "name": "chuushoku",
+    "trans": [
+      "lunch,midday meal"
+    ],
+    "notation": "昼食(ちゅうしょく)"
+  },
+  {
+    "name": "nou",
+    "trans": [
+      "being skilled in,nicely,properly"
+    ],
+    "notation": "能(のう)"
+  },
+  {
+    "name": "hou",
+    "trans": [
+      "cheek (of face)"
+    ],
+    "notation": "頬(ほお)"
+  },
+  {
+    "name": "kusaru",
+    "trans": [
+      "to rot,to go bad"
+    ],
+    "notation": "腐(くさ)る"
+  },
+  {
+    "name": "shinzou",
+    "trans": [
+      "heart"
+    ],
+    "notation": "心臓(しんぞう)"
+  },
+  {
+    "name": "taion",
+    "trans": [
+      "temperature (body)"
+    ],
+    "notation": "体温(たいおん)"
+  },
+  {
+    "name": "necchuu",
+    "trans": [
+      "nuts!,enthusiasm,zeal,mania"
+    ],
+    "notation": "熱中(ねっちゅう)"
+  },
+  {
+    "name": "zaseki",
+    "trans": [
+      "seat"
+    ],
+    "notation": "座席(ざせき)"
+  },
+  {
+    "name": "nyuujou",
+    "trans": [
+      "entrance,admission,entering"
+    ],
+    "notation": "入場(にゅうじょう)"
+  },
+  {
+    "name": "shitashii",
+    "trans": [
+      "intimate,close (e.g. friend)"
+    ],
+    "notation": "親(した)しい"
+  },
+  {
+    "name": "cha",
+    "trans": [
+      "tea"
+    ],
+    "notation": "茶(ちゃ)"
+  },
+  {
+    "name": "intai",
+    "trans": [
+      "retire"
+    ],
+    "notation": "引退(いんたい)"
+  },
+  {
+    "name": "negai",
+    "trans": [
+      "desire,wish,request"
+    ],
+    "notation": "願(ねが)い"
+  },
+  {
+    "name": "sugosu",
+    "trans": [
+      "to pass,to spend,to go through,to tide over"
+    ],
+    "notation": "過(す)ごす"
+  },
+  {
+    "name": "kinchou",
+    "trans": [
+      "tension,mental strain,nervousness"
+    ],
+    "notation": "緊張(きんちょう)"
+  },
+  {
+    "name": "hane",
+    "trans": [
+      "counter for birds,counter for rabbits"
+    ],
+    "notation": "羽(はね)"
+  },
+  {
+    "name": "shiten",
+    "trans": [
+      "branch store (office)"
+    ],
+    "notation": "支店(してん)"
+  },
+  {
+    "name": "seigen",
+    "trans": [
+      "restriction,restraint,limitation"
+    ],
+    "notation": "制限(せいげん)"
+  },
+  {
+    "name": "shihon",
+    "trans": [
+      "funds,capital"
+    ],
+    "notation": "資本(しほん)"
+  },
+  {
+    "name": "kakaru",
+    "trans": [
+      "to take (e.g. time, money, etc),to hang"
+    ],
+    "notation": "罹(かか)る"
+  },
+  {
+    "name": "sekinin",
+    "trans": [
+      "duty,responsibility"
+    ],
+    "notation": "責任(せきにん)"
+  },
+  {
+    "name": "fukou",
+    "trans": [
+      "unhappiness,sorrow,misfortune,disaster,accident,death"
+    ],
+    "notation": "不幸(ふこう)"
+  },
+  {
+    "name": "mimai",
+    "trans": [
+      "enquiry,expression of sympathy,expression of concern"
+    ],
+    "notation": "見舞(みま)い"
+  },
+  {
+    "name": "hada",
+    "trans": [
+      "skin"
+    ],
+    "notation": "肌(はだ)"
+  },
+  {
+    "name": "itadakimasu",
+    "trans": [
+      "expression of gratitude before meals"
+    ],
+    "notation": "いただきます"
+  },
+  {
+    "name": "ofisu",
+    "trans": [
+      "office"
+    ],
+    "notation": "オフィス"
+  },
+  {
+    "name": "kentou",
+    "trans": [
+      "consideration,examination,investigation,study,scrutiny"
+    ],
+    "notation": "見当(けんとう)"
+  },
+  {
+    "name": "naka",
+    "trans": [
+      "relation,relationship"
+    ],
+    "notation": "仲(なか)"
+  },
+  {
+    "name": "kikan",
+    "trans": [
+      "organ,mechanism,facility,engine"
+    ],
+    "notation": "機関(きかん)"
+  },
+  {
+    "name": "susumeru",
+    "trans": [
+      "to recommend,to advise,to encourage,to offer (wine)"
+    ],
+    "notation": "勧(すす)める"
+  },
+  {
+    "name": "fu",
+    "trans": [
+      "un,non,negative prefix"
+    ],
+    "notation": "不(ふ)"
+  },
+  {
+    "name": "taihen",
+    "trans": [
+      "awful,dreadful,terrible,very"
+    ],
+    "notation": "大変(たいへん)"
+  },
+  {
+    "name": "antei",
+    "trans": [
+      "stability,equilibrium"
+    ],
+    "notation": "安定(あんてい)"
+  },
+  {
+    "name": "taikai",
+    "trans": [
+      "convention,tournament,mass meeting,rally"
+    ],
+    "notation": "大会(たいかい)"
+  },
+  {
+    "name": "koukei",
+    "trans": [
+      "scene,spectacle"
+    ],
+    "notation": "光景(こうけい)"
+  },
+  {
+    "name": "mi",
+    "trans": [
+      "body,main part,oneself,sword"
+    ],
+    "notation": "実(み)"
+  },
+  {
+    "name": "shinsen",
+    "trans": [
+      "fresh"
+    ],
+    "notation": "新鮮(しんせん)"
+  },
+  {
+    "name": "itsumademo",
+    "trans": [
+      "forever,for good,eternally,as long as one likes,indefinitely"
+    ],
+    "notation": "いつまでも"
+  },
+  {
+    "name": "wagamama",
+    "trans": [
+      "selfishness,egoism,wilfulness,disobedience,whim"
+    ],
+    "notation": "わがまま"
+  },
+  {
+    "name": "sanso",
+    "trans": [
+      "oxygen"
+    ],
+    "notation": "酸素(さんそ)"
+  },
+  {
+    "name": "tama",
+    "trans": [
+      "bullet,shot,shell"
+    ],
+    "notation": "球(たま)"
+  },
+  {
+    "name": "hitogomi",
+    "trans": [
+      "crowd of people"
+    ],
+    "notation": "人込(ひとご)み"
+  },
+  {
+    "name": "pikunikku",
+    "trans": [
+      "picnic"
+    ],
+    "notation": "ピクニック"
+  },
+  {
+    "name": "enzetsu",
+    "trans": [
+      "speech,address"
+    ],
+    "notation": "演説(えんぜつ)"
+  },
+  {
+    "name": "daiya",
+    "trans": [
+      "(1) dyer,(2) diagram,(3) (railway) schedule,(4) diamond"
+    ],
+    "notation": "ダイヤ"
+  },
+  {
+    "name": "wareru",
+    "trans": [
+      "to divide,to cut,to break,to halve"
+    ],
+    "notation": "割(われ)る"
+  },
+  {
+    "name": "kudasu",
+    "trans": [
+      "to lower,to let go down"
+    ],
+    "notation": "下(くだ)す"
+  },
+  {
+    "name": "ainiku",
+    "trans": [
+      "unfortunately,Sorry, but...."
+    ],
+    "notation": "あいにく"
+  },
+  {
+    "name": "ima",
+    "trans": [
+      "living room (western style)"
+    ],
+    "notation": "居間(いま)"
+  },
+  {
+    "name": "mu",
+    "trans": [
+      "nothing,naught,nil,zero"
+    ],
+    "notation": "無(む)"
+  },
+  {
+    "name": "kinyou",
+    "trans": [
+      "(abbr) Friday"
+    ],
+    "notation": "金曜(きんよう)"
+  },
+  {
+    "name": "urusai",
+    "trans": [
+      "noisy,loud,fussy"
+    ],
+    "notation": "うるさい"
+  },
+  {
+    "name": "kinzoku",
+    "trans": [
+      "metal"
+    ],
+    "notation": "金属(きんぞく)"
+  },
+  {
+    "name": "housou",
+    "trans": [
+      "broadcast,broadcasting"
+    ],
+    "notation": "放送(ほうそう)"
+  },
+  {
+    "name": "atari",
+    "trans": [
+      "vicinity,nearby"
+    ],
+    "notation": "辺(あた)り"
+  },
+  {
+    "name": "kurushii",
+    "trans": [
+      "painful,difficult"
+    ],
+    "notation": "苦(くる)しい"
+  },
+  {
+    "name": "gogaku",
+    "trans": [
+      "language study"
+    ],
+    "notation": "語学(ごがく)"
+  },
+  {
+    "name": "zairyou",
+    "trans": [
+      "ingredients,material"
+    ],
+    "notation": "材料(ざいりょう)"
+  },
+  {
+    "name": "sukuu",
+    "trans": [
+      "to rescue from,to help out of"
+    ],
+    "notation": "救(すく)う"
+  },
+  {
+    "name": "kyoukyuu",
+    "trans": [
+      "supply,provision"
+    ],
+    "notation": "供給(きょうきゅう)"
+  },
+  {
+    "name": "kaigou",
+    "trans": [
+      "meeting,assembly"
+    ],
+    "notation": "会合(かいごう)"
+  },
+  {
+    "name": "nagare",
+    "trans": [
+      "stream,current"
+    ],
+    "notation": "流(なが)れ"
+  },
+  {
+    "name": "osen",
+    "trans": [
+      "pollution,contamination"
+    ],
+    "notation": "汚染(おせん)"
+  },
+  {
+    "name": "haba",
+    "trans": [
+      "width,breadth"
+    ],
+    "notation": "幅(はば)"
+  },
+  {
+    "name": "tadashi",
+    "trans": [
+      "(logical) true,regular"
+    ],
+    "notation": "直(ただし)"
+  },
+  {
+    "name": "juutaku",
+    "trans": [
+      "resident,housing"
+    ],
+    "notation": "住宅(じゅうたく)"
+  },
+  {
+    "name": "bin",
+    "trans": [
+      "bottle"
+    ],
+    "notation": "瓶(びん)"
+  },
+  {
+    "name": "beruto",
+    "trans": [
+      "Belt for western clothes"
+    ],
+    "notation": "ベルト"
+  },
+  {
+    "name": "kakujitsu",
+    "trans": [
+      "certainty,reliability,soundness"
+    ],
+    "notation": "確実(かくじつ)"
+  },
+  {
+    "name": "kyoufu",
+    "trans": [
+      "be afraid,dread,dismay,terror"
+    ],
+    "notation": "恐怖(きょうふ)"
+  },
+  {
+    "name": "ta",
+    "trans": [
+      "other (esp. places and things)"
+    ],
+    "notation": "他(た)"
+  },
+  {
+    "name": "kyou",
+    "trans": [
+      "today,this day"
+    ],
+    "notation": "今日(きょう)"
+  },
+  {
+    "name": "sosogu",
+    "trans": [
+      "to pour (into),to irrigate,to pay,to fill,to feed (e.g. a fire)"
+    ],
+    "notation": "注(そそ)ぐ"
+  },
+  {
+    "name": "yoake",
+    "trans": [
+      "dawn,daybreak"
+    ],
+    "notation": "夜明(よあ)け"
+  },
+  {
+    "name": "yurusu",
+    "trans": [
+      "to permit,to allow,to approve"
+    ],
+    "notation": "許(ゆる)す"
+  },
+  {
+    "name": "otokonohito",
+    "trans": [
+      "man"
+    ],
+    "notation": "男(おとこ)の人(ひと)"
+  },
+  {
+    "name": "enerugii",
+    "trans": [
+      "(n) energy (de: Energie)"
+    ],
+    "notation": "エネルギー"
+  },
+  {
+    "name": "fujin",
+    "trans": [
+      "wife,Mrs,madam"
+    ],
+    "notation": "夫人(ふじん)"
+  },
+  {
+    "name": "men",
+    "trans": [
+      "cotton,padding"
+    ],
+    "notation": "綿(めん)"
+  },
+  {
+    "name": "shitsubou",
+    "trans": [
+      "disappointment,despair"
+    ],
+    "notation": "失望(しつぼう)"
+  },
+  {
+    "name": "kouka",
+    "trans": [
+      "coin"
+    ],
+    "notation": "硬貨(こうか)"
+  },
+  {
+    "name": "ikenai",
+    "trans": [
+      "must not do,bad,wrong,not good"
+    ],
+    "notation": "いけない"
+  },
+  {
+    "name": "ugokasu",
+    "trans": [
+      "to move,to shift"
+    ],
+    "notation": "動(うご)かす"
+  },
+  {
+    "name": "tsuyu",
+    "trans": [
+      "rainy season,rain during the rainy season"
+    ],
+    "notation": "梅雨(つゆ)"
+  },
+  {
+    "name": "tetsugaku",
+    "trans": [
+      "philosophy"
+    ],
+    "notation": "哲学(てつがく)"
+  },
+  {
+    "name": "kentou",
+    "trans": [
+      "consideration,examination,investigation,study,scrutiny"
+    ],
+    "notation": "検討(けんとう)"
+  },
+  {
+    "name": "shikirini",
+    "trans": [
+      "frequently,repeatedly,incessantly,eagerly"
+    ],
+    "notation": "しきりに"
+  },
+  {
+    "name": "jisshi",
+    "trans": [
+      "enforcement,enact,put into practice,carry out,operation"
+    ],
+    "notation": "実施(じっし)"
+  },
+  {
+    "name": "jikoku",
+    "trans": [
+      "instant,time,moment"
+    ],
+    "notation": "時刻(じこく)"
+  },
+  {
+    "name": "sousa",
+    "trans": [
+      "operation,management,processing"
+    ],
+    "notation": "操作(そうさ)"
+  },
+  {
+    "name": "konkai",
+    "trans": [
+      "now,this time,lately"
+    ],
+    "notation": "今回(こんかい)"
+  },
+  {
+    "name": "nagameru",
+    "trans": [
+      "to view,to gaze at"
+    ],
+    "notation": "眺(なが)める"
+  },
+  {
+    "name": "gaku",
+    "trans": [
+      "learning,scholarship,erudition,knowledge"
+    ],
+    "notation": "学(がく)"
+  },
+  {
+    "name": "aru",
+    "trans": [
+      "a certain...,some..."
+    ],
+    "notation": "或(ある)"
+  },
+  {
+    "name": "shi",
+    "trans": [
+      "poem,verse of poetry"
+    ],
+    "notation": "氏(し)"
+  },
+  {
+    "name": "gomennasai",
+    "trans": [
+      "I beg your pardon,excuse me"
+    ],
+    "notation": "ごめんなさい"
+  },
+  {
+    "name": "yosan",
+    "trans": [
+      "estimate,budget"
+    ],
+    "notation": "予算(よさん)"
+  },
+  {
+    "name": "oi",
+    "trans": [
+      "old age,old person,the old,the aged"
+    ],
+    "notation": "老(お)い"
+  },
+  {
+    "name": "arata",
+    "trans": [
+      "new,fresh,novel"
+    ],
+    "notation": "新(あら)た"
+  },
+  {
+    "name": "nippon",
+    "trans": [
+      "Japan"
+    ],
+    "notation": "日本(にっぽん)"
+  },
+  {
+    "name": "isshu",
+    "trans": [
+      "a species,a kind,a variety"
+    ],
+    "notation": "一種(いっしゅ)"
+  },
+  {
+    "name": "ina",
+    "trans": [
+      "no,the noes"
+    ],
+    "notation": "否(いな)"
+  },
+  {
+    "name": "kaado",
+    "trans": [
+      "card,curd"
+    ],
+    "notation": "カード"
+  },
+  {
+    "name": "iki",
+    "trans": [
+      "going"
+    ],
+    "notation": "行(い)き"
+  },
+  {
+    "name": "suji",
+    "trans": [
+      "muscle,string,line"
+    ],
+    "notation": "筋(すじ)"
+  },
+  {
+    "name": "totsuzen",
+    "trans": [
+      "abruptly,suddenly,unexpectedly,all at once"
+    ],
+    "notation": "突然(とつぜん)"
+  },
+  {
+    "name": "itaru",
+    "trans": [
+      "to come,to arrive"
+    ],
+    "notation": "至(いた)る"
+  },
+  {
+    "name": "kaminari",
+    "trans": [
+      "thunder"
+    ],
+    "notation": "雷(かみなり)"
+  },
+  {
+    "name": "fukuro",
+    "trans": [
+      "bag,sack"
+    ],
+    "notation": "袋(ふくろ)"
+  },
+  {
+    "name": "hodo",
+    "trans": [
+      "degree,extent,bounds,limit"
+    ],
+    "notation": "程(ほど)"
+  },
+  {
+    "name": "yakuwari",
+    "trans": [
+      "part,assigning (allotment of) parts,role,duties"
+    ],
+    "notation": "役割(やくわり)"
+  },
+  {
+    "name": "taosu",
+    "trans": [
+      "to throw down,to beat,to bring down,to blow down"
+    ],
+    "notation": "倒(たお)す"
+  },
+  {
+    "name": "habuku",
+    "trans": [
+      "to omit,to eliminate,to curtail,to economize"
+    ],
+    "notation": "省(はぶ)く"
+  },
+  {
+    "name": "shokuji",
+    "trans": [
+      "meal"
+    ],
+    "notation": "食事(しょくじ)"
+  },
+  {
+    "name": "sakeru",
+    "trans": [
+      "(1) to avoid (physical contact ),(2) to ward off,to avert"
+    ],
+    "notation": "避(さ)ける"
+  },
+  {
+    "name": "seikyuu",
+    "trans": [
+      "claim,demand,application,request"
+    ],
+    "notation": "請求(せいきゅう)"
+  },
+  {
+    "name": "ataeru",
+    "trans": [
+      "to give,to present,to award"
+    ],
+    "notation": "与(あた)える"
+  },
+  {
+    "name": "dekirudake",
+    "trans": [
+      "if at all possible"
+    ],
+    "notation": "出来(でき)るだけ"
+  },
+  {
+    "name": "hyouban",
+    "trans": [
+      "fame,reputation,popularity,arrant"
+    ],
+    "notation": "評判(ひょうばん)"
+  },
+  {
+    "name": "kyuu",
+    "trans": [
+      "nine"
+    ],
+    "notation": "九(きゅう)"
+  },
+  {
+    "name": "tai",
+    "trans": [
+      "pair,couple,set"
+    ],
+    "notation": "対(たい)"
+  },
+  {
+    "name": "tabun",
+    "trans": [
+      "perhaps,probably"
+    ],
+    "notation": "多分(たぶん)"
+  },
+  {
+    "name": "rippa",
+    "trans": [
+      "splendid,fine,handsome,elegant,imposing,prominent,legal,legitimate"
+    ],
+    "notation": "立派(りっぱ)"
+  },
+  {
+    "name": "nougyou",
+    "trans": [
+      "agriculture"
+    ],
+    "notation": "農業(のうぎょう)"
+  },
+  {
+    "name": "shomei",
+    "trans": [
+      "signature"
+    ],
+    "notation": "署名(しょめい)"
+  },
+  {
+    "name": "maku",
+    "trans": [
+      "curtain,bunting,act (in play)"
+    ],
+    "notation": "幕(まく)"
+  },
+  {
+    "name": "kawairashii",
+    "trans": [
+      "lovely,sweet"
+    ],
+    "notation": "かわいらしい"
+  },
+  {
+    "name": "eigyou",
+    "trans": [
+      "business,trade,management"
+    ],
+    "notation": "営業(えいぎょう)"
+  },
+  {
+    "name": "kakeru",
+    "trans": [
+      "to be lacking"
+    ],
+    "notation": "欠(か)ける"
+  },
+  {
+    "name": "sugata",
+    "trans": [
+      "figure,shape,appearance"
+    ],
+    "notation": "姿(すがた)"
+  },
+  {
+    "name": "kopii",
+    "trans": [
+      "(1) a (photo)copy,(2) blurb on a book jacket"
+    ],
+    "notation": "コピー"
+  },
+  {
+    "name": "konnan",
+    "trans": [
+      "difficulty,distress"
+    ],
+    "notation": "困難(こんなん)"
+  },
+  {
+    "name": "shoku",
+    "trans": [
+      "employment"
+    ],
+    "notation": "職(しょく)"
+  },
+  {
+    "name": "bukka",
+    "trans": [
+      "prices of commodities,prices (in general)"
+    ],
+    "notation": "物価(ぶっか)"
+  },
+  {
+    "name": "koshou",
+    "trans": [
+      "break-down,failure,accident,out of order"
+    ],
+    "notation": "故障(こしょう)"
+  },
+  {
+    "name": "tokai",
+    "trans": [
+      "city"
+    ],
+    "notation": "都会(とかい)"
+  },
+  {
+    "name": "kasegu",
+    "trans": [
+      "to earn income,to labor"
+    ],
+    "notation": "稼(かせ)ぐ"
+  },
+  {
+    "name": "toi",
+    "trans": [
+      "question,query"
+    ],
+    "notation": "問(と)い"
+  },
+  {
+    "name": "douro",
+    "trans": [
+      "road,highway"
+    ],
+    "notation": "道路(どうろ)"
+  },
+  {
+    "name": "mushiro",
+    "trans": [
+      "rather,better,instead"
+    ],
+    "notation": "寧(むし)ろ"
+  },
+  {
+    "name": "kaiin",
+    "trans": [
+      "member,the membership"
+    ],
+    "notation": "会員(かいいん)"
+  },
+  {
+    "name": "nani",
+    "trans": [
+      "what"
+    ],
+    "notation": "何(なに)"
+  },
+  {
+    "name": "ittai",
+    "trans": [
+      "(1) one object,one body,(2) what on earth?,really?,(3) generally"
+    ],
+    "notation": "一体(いったい)"
+  },
+  {
+    "name": "nokku",
+    "trans": [
+      "(1) knock,(2) fungo (baseball)"
+    ],
+    "notation": "ノック"
+  },
+  {
+    "name": "ryuugaku",
+    "trans": [
+      "studying abroad"
+    ],
+    "notation": "留学(りゅうがく)"
+  },
+  {
+    "name": "kotonaru",
+    "trans": [
+      "to differ,to vary,to disagree"
+    ],
+    "notation": "異(こと)なる"
+  },
+  {
+    "name": "machi",
+    "trans": [
+      "(1) town,(2) street,road"
+    ],
+    "notation": "街(まち)"
+  },
+  {
+    "name": "baiorin",
+    "trans": [
+      "violin"
+    ],
+    "notation": "バイオリン"
+  },
+  {
+    "name": "iki",
+    "trans": [
+      "going"
+    ],
+    "notation": "行(い)き"
+  },
+  {
+    "name": "shi",
+    "trans": [
+      "poem,verse of poetry"
+    ],
+    "notation": "詩(し)"
+  },
+  {
+    "name": "osoroshii",
+    "trans": [
+      "terrible,dreadful"
+    ],
+    "notation": "恐(おそ)ろしい"
+  },
+  {
+    "name": "kai",
+    "trans": [
+      "counter for occurrences"
+    ],
+    "notation": "回(かい)"
+  },
+  {
+    "name": "yokogiru",
+    "trans": [
+      "to cross (e.g. arms),to traverse"
+    ],
+    "notation": "横切(よこぎ)る"
+  },
+  {
+    "name": "sekkyokuteki",
+    "trans": [
+      "positive,active,proactive"
+    ],
+    "notation": "積極(せっきょく)的(てき)"
+  },
+  {
+    "name": "kyodai",
+    "trans": [
+      "huge,gigantic,enormous"
+    ],
+    "notation": "巨大(きょだい)"
+  },
+  {
+    "name": "kurasu",
+    "trans": [
+      "to live,to get along"
+    ],
+    "notation": "暮(く)らす"
+  },
+  {
+    "name": "kinniku",
+    "trans": [
+      "muscle,sinew"
+    ],
+    "notation": "筋肉(きんにく)"
+  },
+  {
+    "name": "totan",
+    "trans": [
+      "just (now, at the moment, etc.)"
+    ],
+    "notation": "途端(とたん)"
+  },
+  {
+    "name": "kiroku",
+    "trans": [
+      "record,minutes,document"
+    ],
+    "notation": "記録(きろく)"
+  },
+  {
+    "name": "kansei",
+    "trans": [
+      "(1) complete,completion,(2) perfection,accomplishment"
+    ],
+    "notation": "完成(かんせい)"
+  },
+  {
+    "name": "tatakai",
+    "trans": [
+      "battle,fight,struggle,conflict"
+    ],
+    "notation": "戦(たたか)い"
+  },
+  {
+    "name": "ondan",
+    "trans": [
+      "warmth"
+    ],
+    "notation": "温暖(おんだん)"
+  },
+  {
+    "name": "nozomu",
+    "trans": [
+      "to desire,to wish for,to see,to command (a view of)"
+    ],
+    "notation": "望(のぞ)む"
+  },
+  {
+    "name": "tane",
+    "trans": [
+      "(1) seed,(2) material,(3) cause,source"
+    ],
+    "notation": "種(たね)"
+  },
+  {
+    "name": "hadaka",
+    "trans": [
+      "naked,nude"
+    ],
+    "notation": "裸(はだか)"
+  },
+  {
+    "name": "nakama",
+    "trans": [
+      "company,fellow,colleague,associate"
+    ],
+    "notation": "仲間(なかま)"
+  },
+  {
+    "name": "gengo",
+    "trans": [
+      "language"
+    ],
+    "notation": "言語(げんご)"
+  },
+  {
+    "name": "tamesu",
+    "trans": [
+      "to attempt,to test"
+    ],
+    "notation": "試(ため)す"
+  },
+  {
+    "name": "tomeru",
+    "trans": [
+      "to fasten,to turn off,to detain"
+    ],
+    "notation": "留(と)める"
+  },
+  {
+    "name": "oudan",
+    "trans": [
+      "crossing"
+    ],
+    "notation": "横断(おうだん)"
+  },
+  {
+    "name": "tama",
+    "trans": [
+      "bullet,shot,shell"
+    ],
+    "notation": "玉(たま)"
+  },
+  {
+    "name": "omae",
+    "trans": [
+      "(fam) you (sing),presence (of a high personage)"
+    ],
+    "notation": "おまえ"
+  },
+  {
+    "name": "kona",
+    "trans": [
+      "flour,meal,powder"
+    ],
+    "notation": "粉(こな)"
+  },
+  {
+    "name": "hanashiau",
+    "trans": [
+      "to discuss,to talk together"
+    ],
+    "notation": "話(はな)し合(あ)う"
+  },
+  {
+    "name": "kakunin",
+    "trans": [
+      "affirmation,confirmation"
+    ],
+    "notation": "確認(かくにん)"
+  },
+  {
+    "name": "taikutsu",
+    "trans": [
+      "tedium,boredom"
+    ],
+    "notation": "退屈(たいくつ)"
+  },
+  {
+    "name": "risou",
+    "trans": [
+      "ideal"
+    ],
+    "notation": "理想(りそう)"
+  },
+  {
+    "name": "hikou",
+    "trans": [
+      "aviation"
+    ],
+    "notation": "飛行(ひこう)"
+  },
+  {
+    "name": "tadachini",
+    "trans": [
+      "at once,immediately,directly,in person"
+    ],
+    "notation": "直(ただ)ちに"
+  },
+  {
+    "name": "kusari",
+    "trans": [
+      "chain"
+    ],
+    "notation": "鎖(くさり)"
+  },
+  {
+    "name": "unaru",
+    "trans": [
+      "to groan,to moan"
+    ],
+    "notation": "うなる"
+  },
+  {
+    "name": "kachi",
+    "trans": [
+      "value,worth,merit"
+    ],
+    "notation": "価値(かち)"
+  },
+  {
+    "name": "sakarau",
+    "trans": [
+      "to go against,to oppose,to disobey,to defy"
+    ],
+    "notation": "逆(さか)らう"
+  },
+  {
+    "name": "kan",
+    "trans": [
+      "pipe,tube"
+    ],
+    "notation": "管(かん)"
+  },
+  {
+    "name": "chuuko",
+    "trans": [
+      "(1) used,second-hand,old"
+    ],
+    "notation": "中古(ちゅうこ)"
+  },
+  {
+    "name": "tomo",
+    "trans": [
+      "friend,companion,pal"
+    ],
+    "notation": "友(とも)"
+  },
+  {
+    "name": "bakudai",
+    "trans": [
+      "enormous,vast"
+    ],
+    "notation": "莫大(ばくだい)"
+  },
+  {
+    "name": "ine",
+    "trans": [
+      "rice-plant"
+    ],
+    "notation": "稲(いね)"
+  },
+  {
+    "name": "tobasu",
+    "trans": [
+      "to skip over,to omit"
+    ],
+    "notation": "飛(と)ばす"
+  },
+  {
+    "name": "juushi",
+    "trans": [
+      "importance,stress,serious consideration"
+    ],
+    "notation": "重視(じゅうし)"
+  },
+  {
+    "name": "jinsei",
+    "trans": [
+      "(human) life (i.e. conception to death)"
+    ],
+    "notation": "人生(じんせい)"
+  },
+  {
+    "name": "kumori",
+    "trans": [
+      "cloudiness,cloudy weather,shadow"
+    ],
+    "notation": "曇(くもり)"
+  },
+  {
+    "name": "kinen",
+    "trans": [
+      "commemoration,memory"
+    ],
+    "notation": "禁煙(きんえん)"
+  },
+  {
+    "name": "shuukan",
+    "trans": [
+      "week,weekly"
+    ],
+    "notation": "週間(しゅうかん)"
+  },
+  {
+    "name": "hageshii",
+    "trans": [
+      "violent,vehement,intense"
+    ],
+    "notation": "激(はげ)しい"
+  },
+  {
+    "name": "bun",
+    "trans": [
+      "sentence"
+    ],
+    "notation": "分(ぶん)"
+  },
+  {
+    "name": "chousa",
+    "trans": [
+      "investigation,examination,inquiry,survey"
+    ],
+    "notation": "調査(ちょうさ)"
+  },
+  {
+    "name": "moji",
+    "trans": [
+      "letter (of alphabet),character"
+    ],
+    "notation": "文字(もじ)"
+  },
+  {
+    "name": "mitomeru",
+    "trans": [
+      "to recognize,to appreciate,to approve,to admit,to notice"
+    ],
+    "notation": "認(みと)める"
+  },
+  {
+    "name": "nagame",
+    "trans": [
+      "scene,view,prospect,outlook"
+    ],
+    "notation": "眺(なが)め"
+  },
+  {
+    "name": "hokori",
+    "trans": [
+      "pride"
+    ],
+    "notation": "誇(ほこ)り"
+  },
+  {
+    "name": "kutsuu",
+    "trans": [
+      "pain,agony"
+    ],
+    "notation": "苦痛(くつう)"
+  },
+  {
+    "name": "ban",
+    "trans": [
+      ""
+    ],
+    "notation": "番(ばん)"
+  },
+  {
+    "name": "chii",
+    "trans": [
+      "(social) position,status"
+    ],
+    "notation": "地位(ちい)"
+  },
+  {
+    "name": "mukae",
+    "trans": [
+      "meeting,person sent to pick up an arrival"
+    ],
+    "notation": "迎(むか)え"
+  },
+  {
+    "name": "nagasu",
+    "trans": [
+      "to drain,to float,to shed (blood, tears),to cruise (e.g. taxi)"
+    ],
+    "notation": "流(なが)す"
+  },
+  {
+    "name": "jouken",
+    "trans": [
+      "conditions,terms"
+    ],
+    "notation": "条件(じょうけん)"
+  },
+  {
+    "name": "kumiai",
+    "trans": [
+      "association,union"
+    ],
+    "notation": "組合(くみあい)"
+  },
+  {
+    "name": "chuumoku",
+    "trans": [
+      "notice,attention,observation"
+    ],
+    "notation": "注目(ちゅうもく)"
+  },
+  {
+    "name": "dairi",
+    "trans": [
+      "representation,agency,proxy,deputy,agent"
+    ],
+    "notation": "代理(だいり)"
+  },
+  {
+    "name": "chuuou",
+    "trans": [
+      "centre,central,center,middle"
+    ],
+    "notation": "中央(ちゅうおう)"
+  },
+  {
+    "name": "chiimu",
+    "trans": [
+      "team"
+    ],
+    "notation": "チーム"
+  },
+  {
+    "name": "houkoku",
+    "trans": [
+      "report,information"
+    ],
+    "notation": "報告(ほうこく)"
+  },
+  {
+    "name": "jissai",
+    "trans": [
+      "practical,actual condition,status quo"
+    ],
+    "notation": "実際(じっさい)"
+  },
+  {
+    "name": "tsurai",
+    "trans": [
+      "painful,heart-breaking"
+    ],
+    "notation": "辛(つら)い"
+  },
+  {
+    "name": "honoo",
+    "trans": [
+      "flame"
+    ],
+    "notation": "炎(ほのお)"
+  },
+  {
+    "name": "kakaku",
+    "trans": [
+      "price,value,cost"
+    ],
+    "notation": "価格(かかく)"
+  },
+  {
+    "name": "ishi",
+    "trans": [
+      "doctor,physician"
+    ],
+    "notation": "意志(いし)"
+  },
+  {
+    "name": "wareware",
+    "trans": [
+      "we"
+    ],
+    "notation": "我々(われわれ)"
+  },
+  {
+    "name": "houfu",
+    "trans": [
+      "abundance,wealth,plenty,bounty"
+    ],
+    "notation": "豊富(ほうふ)"
+  },
+  {
+    "name": "junchou",
+    "trans": [
+      "favourable,doing well,O.K.,all right"
+    ],
+    "notation": "順調(じゅんちょう)"
+  },
+  {
+    "name": "yameru",
+    "trans": [
+      "to retire"
+    ],
+    "notation": "辞(や)める"
+  },
+  {
+    "name": "uma",
+    "trans": [
+      "(1) horse,(2) promoted bishop (shogi)"
+    ],
+    "notation": "馬(うま)"
+  },
+  {
+    "name": "hitoshii",
+    "trans": [
+      "equal"
+    ],
+    "notation": "等(ひと)しい"
+  },
+  {
+    "name": "ushinau",
+    "trans": [
+      "to lose,to part with"
+    ],
+    "notation": "失(うしな)う"
+  },
+  {
+    "name": "hanbai",
+    "trans": [
+      "sale,selling,marketing"
+    ],
+    "notation": "販売(はんばい)"
+  },
+  {
+    "name": "raketto",
+    "trans": [
+      "paddle,racket"
+    ],
+    "notation": "ラケット"
+  },
+  {
+    "name": "kinou",
+    "trans": [
+      "function,faculty"
+    ],
+    "notation": "機能(きのう)"
+  },
+  {
+    "name": "yosoku",
+    "trans": [
+      "prediction,estimation"
+    ],
+    "notation": "予測(よそく)"
+  },
+  {
+    "name": "ue",
+    "trans": [
+      "(1) first volume,(2) superior quality,(3) governmental"
+    ],
+    "notation": "上(うえ)"
+  },
+  {
+    "name": "zenzen",
+    "trans": [
+      "(1) wholly,entirely,completely,(2) not at all (with neg. verb)"
+    ],
+    "notation": "全然(ぜんぜん)"
+  },
+  {
+    "name": "sasaeru",
+    "trans": [
+      "to be blocked,to choke,to be obstructed"
+    ],
+    "notation": "支(ささ)える"
+  },
+  {
+    "name": "shinseki",
+    "trans": [
+      "relative"
+    ],
+    "notation": "親戚(しんせき)"
+  },
+  {
+    "name": "jikkou",
+    "trans": [
+      "practice,performance,execution (e.g. program),realization"
+    ],
+    "notation": "実行(じっこう)"
+  },
+  {
+    "name": "imani",
+    "trans": [
+      "before long,even now"
+    ],
+    "notation": "今(いま)に"
+  },
+  {
+    "name": "chokusetsu",
+    "trans": [
+      "direct,immediate,personal,firsthand"
+    ],
+    "notation": "直接(ちょくせつ)"
+  },
+  {
+    "name": "dan",
+    "trans": [
+      "step,stair,flight of steps,grade,rank,level"
+    ],
+    "notation": "段(だん)"
+  },
+  {
+    "name": "moyou",
+    "trans": [
+      "pattern,figure,design"
+    ],
+    "notation": "模様(もよう)"
+  },
+  {
+    "name": "ishi",
+    "trans": [
+      "doctor,physician"
+    ],
+    "notation": "医師(いし)"
+  },
+  {
+    "name": "kyouju",
+    "trans": [
+      "teaching,instruction,professor"
+    ],
+    "notation": "教授(きょうじゅ)"
+  },
+  {
+    "name": "masaka",
+    "trans": [
+      "by no means"
+    ],
+    "notation": "まさか"
+  },
+  {
+    "name": "no",
+    "trans": [
+      "field"
+    ],
+    "notation": "野(の)"
+  },
+  {
+    "name": "gishi",
+    "trans": [
+      "engineer,technician"
+    ],
+    "notation": "技師(ぎし)"
+  },
+  {
+    "name": "tachiba",
+    "trans": [
+      "standpoint,position,situation"
+    ],
+    "notation": "立場(たちば)"
+  },
+  {
+    "name": "misu",
+    "trans": [
+      "miss (mistake, error, failure),Miss"
+    ],
+    "notation": "ミス"
+  },
+  {
+    "name": "mi",
+    "trans": [
+      "body,main part,oneself,sword"
+    ],
+    "notation": "身(み)"
+  },
+  {
+    "name": "akiru",
+    "trans": [
+      "to get tired of,to lose interest in,to have enough"
+    ],
+    "notation": "飽(あ)きる"
+  },
+  {
+    "name": "kansuru",
+    "trans": [
+      "to concern,to be related"
+    ],
+    "notation": "関(かん)する"
+  },
+  {
+    "name": "kekkyoku",
+    "trans": [
+      "after all,eventually"
+    ],
+    "notation": "結局(けっきょく)"
+  },
+  {
+    "name": "naru",
+    "trans": [
+      "to become"
+    ],
+    "notation": "為(な)る"
+  },
+  {
+    "name": "oou",
+    "trans": [
+      "to cover,to hide,to conceal,to wrap,to disguise"
+    ],
+    "notation": "覆(おお)う"
+  },
+  {
+    "name": "yoru",
+    "trans": [
+      "evening,night"
+    ],
+    "notation": "夜(よる)"
+  },
+  {
+    "name": "shushou",
+    "trans": [
+      "Prime Minister"
+    ],
+    "notation": "首相(しゅしょう)"
+  },
+  {
+    "name": "shinjiru",
+    "trans": [
+      "to believe,to place trust in"
+    ],
+    "notation": "信(しん)じる"
+  },
+  {
+    "name": "gawa",
+    "trans": [
+      "side,edge,third person"
+    ],
+    "notation": "側(がわ)"
+  },
+  {
+    "name": "kashu",
+    "trans": [
+      "singer"
+    ],
+    "notation": "歌手(かしゅ)"
+  },
+  {
+    "name": "douyou",
+    "trans": [
+      "identical,equal to,same (kind),like"
+    ],
+    "notation": "同様(どうよう)"
+  },
+  {
+    "name": "nama",
+    "trans": [
+      "(1) draft (beer),(2) raw,unprocessed"
+    ],
+    "notation": "生(なま)"
+  },
+  {
+    "name": "sosogu",
+    "trans": [
+      "to pour (into),to irrigate,to pay,to fill,to feed (e.g. a fire)"
+    ],
+    "notation": "注(そそ)ぐ"
+  },
+  {
+    "name": "kouen",
+    "trans": [
+      "lecture,address"
+    ],
+    "notation": "講演(こうえん)"
+  },
+  {
+    "name": "doku",
+    "trans": [
+      "poison,toxicant"
+    ],
+    "notation": "毒(どく)"
+  },
+  {
+    "name": "hitei",
+    "trans": [
+      "negation,denial,repudiation"
+    ],
+    "notation": "否定(ひてい)"
+  },
+  {
+    "name": "shuu",
+    "trans": [
+      "week"
+    ],
+    "notation": "週(しゅう)"
+  },
+  {
+    "name": "akuma",
+    "trans": [
+      "devil,demon,evil spirit"
+    ],
+    "notation": "悪魔(あくま)"
+  },
+  {
+    "name": "gakki",
+    "trans": [
+      "term (school)"
+    ],
+    "notation": "学期(がっき)"
+  },
+  {
+    "name": "sukeeto",
+    "trans": [
+      "skate(s),skating"
+    ],
+    "notation": "スケート"
+  },
+  {
+    "name": "chigainai",
+    "trans": [
+      "(phrase) sure,no mistaking it,for certain"
+    ],
+    "notation": "違(ちが)いない"
+  },
+  {
+    "name": "tanjou",
+    "trans": [
+      "birth"
+    ],
+    "notation": "誕生(たんじょう)"
+  },
+  {
+    "name": "maa",
+    "trans": [
+      "(female) you might say"
+    ],
+    "notation": "まあ"
+  },
+  {
+    "name": "sakana",
+    "trans": [
+      "fish"
+    ],
+    "notation": "魚(さかな)"
+  },
+  {
+    "name": "masutaa",
+    "trans": [
+      "proprietor,manager,barowner,master (e.g. arts, science)"
+    ],
+    "notation": "マスター"
+  },
+  {
+    "name": "kaifuku",
+    "trans": [
+      "recovery (from illness),improvement,rehabilitation,restoration"
+    ],
+    "notation": "回復(かいふく)"
+  },
+  {
+    "name": "kanja",
+    "trans": [
+      "a patient"
+    ],
+    "notation": "患者(かんじゃ)"
+  },
+  {
+    "name": "hyoujou",
+    "trans": [
+      "facial expression"
+    ],
+    "notation": "表情(ひょうじょう)"
+  },
+  {
+    "name": "jishin",
+    "trans": [
+      "by oneself,personally"
+    ],
+    "notation": "自身(じしん)"
+  },
+  {
+    "name": "doresu",
+    "trans": [
+      "dress"
+    ],
+    "notation": "ドレス"
+  },
+  {
+    "name": "kankyou",
+    "trans": [
+      "environment,circumstance"
+    ],
+    "notation": "環境(かんきょう)"
+  },
+  {
+    "name": "tama",
+    "trans": [
+      "bullet,shot,shell"
+    ],
+    "notation": "弾(たま)"
+  },
+  {
+    "name": "seihin",
+    "trans": [
+      "manufactured goods,finished goods"
+    ],
+    "notation": "製品(せいひん)"
+  },
+  {
+    "name": "youten",
+    "trans": [
+      "gist,main point"
+    ],
+    "notation": "要点(ようてん)"
+  },
+  {
+    "name": "mazushii",
+    "trans": [
+      "poor,needy"
+    ],
+    "notation": "貧(まず)しい"
+  },
+  {
+    "name": "joou",
+    "trans": [
+      "queen"
+    ],
+    "notation": "女王(じょおう)"
+  },
+  {
+    "name": "rikai",
+    "trans": [
+      "understanding,comprehension"
+    ],
+    "notation": "理解(りかい)"
+  },
+  {
+    "name": "haru",
+    "trans": [
+      "to stick,to paste"
+    ],
+    "notation": "張(は)る"
+  },
+  {
+    "name": "henka",
+    "trans": [
+      "goblin,ghost,apparition,bugbear"
+    ],
+    "notation": "変化(へんか)"
+  },
+  {
+    "name": "kiri",
+    "trans": [
+      "fog,mist"
+    ],
+    "notation": "霧(きり)"
+  },
+  {
+    "name": "ai",
+    "trans": [
+      "love"
+    ],
+    "notation": "愛(あい)"
+  },
+  {
+    "name": "himitsu",
+    "trans": [
+      "secret,secrecy"
+    ],
+    "notation": "秘密(ひみつ)"
+  },
+  {
+    "name": "hiku",
+    "trans": [
+      "to run somebody over (with vehicle),to knock someone down"
+    ],
+    "notation": "轢(ひ)く"
+  },
+  {
+    "name": "hobo",
+    "trans": [
+      "defect,flaw,blemish,weak point"
+    ],
+    "notation": "粗(ほぼ)"
+  },
+  {
+    "name": "seichou",
+    "trans": [
+      "growth,grow to adulthood"
+    ],
+    "notation": "成長(せいちょう)"
+  },
+  {
+    "name": "kenka",
+    "trans": [
+      "quarrel,(drunken) brawl,failure"
+    ],
+    "notation": "喧嘩(けんか)"
+  },
+  {
+    "name": "kokumin",
+    "trans": [
+      "national,people,citizen"
+    ],
+    "notation": "国民(こくみん)"
+  },
+  {
+    "name": "shounin",
+    "trans": [
+      "trader,shopkeeper,merchant"
+    ],
+    "notation": "商人(しょうにん)"
+  },
+  {
+    "name": "an",
+    "trans": [
+      "plan,suffix meaning draft"
+    ],
+    "notation": "案(あん)"
+  },
+  {
+    "name": "shokugyou",
+    "trans": [
+      "occupation,business"
+    ],
+    "notation": "職業(しょくぎょう)"
+  },
+  {
+    "name": "kinen",
+    "trans": [
+      "commemoration,memory"
+    ],
+    "notation": "記念(きねん)"
+  },
+  {
+    "name": "migoto",
+    "trans": [
+      "splendid,magnificent,beautiful,admirable"
+    ],
+    "notation": "見事(みごと)"
+  },
+  {
+    "name": "tsumoru",
+    "trans": [
+      "to pile up"
+    ],
+    "notation": "積(つ)もる"
+  },
+  {
+    "name": "tsubasa",
+    "trans": [
+      "wings"
+    ],
+    "notation": "翼(つばさ)"
+  },
+  {
+    "name": "maru",
+    "trans": [
+      "circle,full (month),perfection,purity,suffix for ship names"
+    ],
+    "notation": "丸(まる)"
+  },
+  {
+    "name": "ma",
+    "trans": [
+      "space,room,time,pause"
+    ],
+    "notation": "間(ま)"
+  },
+  {
+    "name": "oru",
+    "trans": [
+      "to be (animate),to be,to exist"
+    ],
+    "notation": "居(お)る"
+  },
+  {
+    "name": "senkou",
+    "trans": [
+      "major subject,special study"
+    ],
+    "notation": "専攻(せんこう)"
+  },
+  {
+    "name": "joukyou",
+    "trans": [
+      "state of affairs,situation,circumstances"
+    ],
+    "notation": "上京(じょうきょう)"
+  },
+  {
+    "name": "kashi",
+    "trans": [
+      "pastry"
+    ],
+    "notation": "菓子(かし)"
+  },
+  {
+    "name": "shitagatte",
+    "trans": [
+      "therefore,consequently,in accordance with"
+    ],
+    "notation": "したがって"
+  },
+  {
+    "name": "soretomo",
+    "trans": [
+      "or,or else"
+    ],
+    "notation": "それとも"
+  },
+  {
+    "name": "umai",
+    "trans": [
+      "delicious"
+    ],
+    "notation": "うまい"
+  },
+  {
+    "name": "taishita",
+    "trans": [
+      "considerable,great,important,significant,a big deal"
+    ],
+    "notation": "大(たい)した"
+  },
+  {
+    "name": "sugureru",
+    "trans": [
+      "to surpass,to outstrip,to excel"
+    ],
+    "notation": "優(すぐ)れる"
+  },
+  {
+    "name": "chichioya",
+    "trans": [
+      "father"
+    ],
+    "notation": "父親(ちちおや)"
+  },
+  {
+    "name": "shirushi",
+    "trans": [
+      "(1) mark,(2) symbol,(3) evidence"
+    ],
+    "notation": "印(しるし)"
+  },
+  {
+    "name": "sokkuri",
+    "trans": [
+      "all,altogether,entirely,be just like,the splitting image of"
+    ],
+    "notation": "そっくり"
+  },
+  {
+    "name": "hirogaru",
+    "trans": [
+      "to spread (out),to extend,to stretch,to reach to,to get around"
+    ],
+    "notation": "広(ひろ)がる"
+  },
+  {
+    "name": "kimu",
+    "trans": [
+      "(1) gold,(2) gold general (shogi) (abbr)"
+    ],
+    "notation": "金(きむ)"
+  },
+  {
+    "name": "dokoka",
+    "trans": [
+      "somewhere,anywhere"
+    ],
+    "notation": "どこか"
+  },
+  {
+    "name": "hisshi",
+    "trans": [
+      "inevitable death,desperation,frantic,inevitable result"
+    ],
+    "notation": "必死(ひっし)"
+  },
+  {
+    "name": "ryougae",
+    "trans": [
+      "change,money exchange"
+    ],
+    "notation": "両替(りょうがえ)"
+  },
+  {
+    "name": "ninki",
+    "trans": [
+      "sign of life"
+    ],
+    "notation": "人気(にんき)"
+  },
+  {
+    "name": "noberu",
+    "trans": [
+      "to state,to express,to mention"
+    ],
+    "notation": "述(の)べる"
+  },
+  {
+    "name": "hatake",
+    "trans": [
+      "field"
+    ],
+    "notation": "畑(はたけ)"
+  },
+  {
+    "name": "kooru",
+    "trans": [
+      "to freeze,to be frozen over,to congeal"
+    ],
+    "notation": "凍(こお)る"
+  },
+  {
+    "name": "deau",
+    "trans": [
+      "to meet by chance,to come across,to happen to encounter"
+    ],
+    "notation": "出会(であ)う"
+  },
+  {
+    "name": "kurou",
+    "trans": [
+      "troubles,hardships"
+    ],
+    "notation": "苦労(くろう)"
+  },
+  {
+    "name": "yukai",
+    "trans": [
+      "pleasant,happy"
+    ],
+    "notation": "愉快(ゆかい)"
+  },
+  {
+    "name": "byou",
+    "trans": [
+      "second (60th min)"
+    ],
+    "notation": "秒(びょう)"
+  },
+  {
+    "name": "auto",
+    "trans": [
+      "out"
+    ],
+    "notation": "アウト"
+  },
+  {
+    "name": "sora",
+    "trans": [
+      "sky"
+    ],
+    "notation": "空(そら)"
+  },
+  {
+    "name": "sake",
+    "trans": [
+      "alcohol,sake"
+    ],
+    "notation": "酒(さけ)"
+  },
+  {
+    "name": "tsuukou",
+    "trans": [
+      "passage,passing"
+    ],
+    "notation": "通行(つうこう)"
+  },
+  {
+    "name": "shimatta",
+    "trans": [
+      "Damn it!"
+    ],
+    "notation": "仕舞(しま)った"
+  },
+  {
+    "name": "ohiru",
+    "trans": [
+      "lunch,noon"
+    ],
+    "notation": "お昼(ひる)"
+  },
+  {
+    "name": "shokuhin",
+    "trans": [
+      "commodity,foodstuff"
+    ],
+    "notation": "食品(しょくひん)"
+  },
+  {
+    "name": "chuusha",
+    "trans": [
+      "parking (e.g. car)"
+    ],
+    "notation": "駐車(ちゅうしゃ)"
+  },
+  {
+    "name": "mokuteki",
+    "trans": [
+      "purpose,goal,aim,objective,intention"
+    ],
+    "notation": "目的(もくてき)"
+  },
+  {
+    "name": "sentaku",
+    "trans": [
+      "selection,choice"
+    ],
+    "notation": "選択(せんたく)"
+  },
+  {
+    "name": "katana",
+    "trans": [
+      "sword,saber,knife,engraving tool"
+    ],
+    "notation": "刀(かたな)"
+  },
+  {
+    "name": "kyouryoku",
+    "trans": [
+      "herculean strength,mountain carrier-guide"
+    ],
+    "notation": "強力(きょうりょく)"
+  },
+  {
+    "name": "touhyou",
+    "trans": [
+      "voting,poll"
+    ],
+    "notation": "投票(とうひょう)"
+  },
+  {
+    "name": "kanryou",
+    "trans": [
+      "completion,conclusion"
+    ],
+    "notation": "完了(かんりょう)"
+  },
+  {
+    "name": "kanou",
+    "trans": [
+      "possible,practicable,feasible"
+    ],
+    "notation": "可能(かのう)"
+  },
+  {
+    "name": "hasan",
+    "trans": [
+      "(personal) bankruptcy"
+    ],
+    "notation": "破産(はさん)"
+  },
+  {
+    "name": "kagi",
+    "trans": [
+      "key"
+    ],
+    "notation": "鍵(かぎ)"
+  },
+  {
+    "name": "tachiagaru",
+    "trans": [
+      "to stand up"
+    ],
+    "notation": "立(た)ち上(あ)がる"
+  },
+  {
+    "name": "mori",
+    "trans": [
+      "helping,serving"
+    ],
+    "notation": "盛(も)り"
+  },
+  {
+    "name": "nawa",
+    "trans": [
+      "rope,hemp"
+    ],
+    "notation": "縄(なわ)"
+  },
+  {
+    "name": "goku",
+    "trans": [
+      "quite,very"
+    ],
+    "notation": "極(ごく)"
+  },
+  {
+    "name": "maneku",
+    "trans": [
+      "to invite"
+    ],
+    "notation": "招(まね)く"
+  },
+  {
+    "name": "toppu",
+    "trans": [
+      "top"
+    ],
+    "notation": "トップ"
+  },
+  {
+    "name": "joukyou",
+    "trans": [
+      "state of affairs,situation,circumstances"
+    ],
+    "notation": "状況(じょうきょう)"
+  },
+  {
+    "name": "gakusha",
+    "trans": [
+      "scholar"
+    ],
+    "notation": "学者(がくしゃ)"
+  },
+  {
+    "name": "wain",
+    "trans": [
+      "wine"
+    ],
+    "notation": "ワイン"
+  },
+  {
+    "name": "kyaputen",
+    "trans": [
+      "captain"
+    ],
+    "notation": "キャプテン"
+  },
+  {
+    "name": "konyaku",
+    "trans": [
+      "engagement,betrothal"
+    ],
+    "notation": "婚約(こんやく)"
+  },
+  {
+    "name": "odayaka",
+    "trans": [
+      "calm,gentle,quiet"
+    ],
+    "notation": "穏(おだ)やか"
+  },
+  {
+    "name": "chanto",
+    "trans": [
+      "perfectly,properly,exactly"
+    ],
+    "notation": "ちゃんと"
+  },
+  {
+    "name": "wazuka",
+    "trans": [
+      "only,merely,a little,small quantity"
+    ],
+    "notation": "僅(わず)か"
+  },
+  {
+    "name": "noki",
+    "trans": [
+      "eaves"
+    ],
+    "notation": "軒(のき)"
+  },
+  {
+    "name": "kouchi",
+    "trans": [
+      "coach"
+    ],
+    "notation": "コーチ"
+  },
+  {
+    "name": "itadaku",
+    "trans": [
+      "to receive,to take food or drink (hum)"
+    ],
+    "notation": "頂(いただ)く"
+  },
+  {
+    "name": "saichuu",
+    "trans": [
+      "in the middle of"
+    ],
+    "notation": "最中(さいちゅう)"
+  },
+  {
+    "name": "dokuritsu",
+    "trans": [
+      "independence (e.g. Ind. Day),self-support"
+    ],
+    "notation": "独立(どくりつ)"
+  },
+  {
+    "name": "chon",
+    "trans": [
+      "all,whole,entire,complete,overall,pan"
+    ],
+    "notation": "全(ちょん)"
+  },
+  {
+    "name": "sutaa",
+    "trans": [
+      "star"
+    ],
+    "notation": "スター"
+  },
+  {
+    "name": "sotto",
+    "trans": [
+      "face of the earth"
+    ],
+    "notation": "そっと"
+  },
+  {
+    "name": "shikamo",
+    "trans": [
+      "moreover,furthermore,nevertheless,and yet"
+    ],
+    "notation": "しかも"
+  },
+  {
+    "name": "hi",
+    "trans": [
+      "sun,sunshine,day"
+    ],
+    "notation": "日(ひ)"
+  },
+  {
+    "name": "katagata",
+    "trans": [
+      "persons,this and that,here and there,everywhere"
+    ],
+    "notation": "方々(かたがた)"
+  },
+  {
+    "name": "yaku",
+    "trans": [
+      "approximately,about,some"
+    ],
+    "notation": "約(やく)"
+  },
+  {
+    "name": "kakaru",
+    "trans": [
+      "to take (e.g. time, money, etc),to hang"
+    ],
+    "notation": "掛(か)かる"
+  },
+  {
+    "name": "gutai",
+    "trans": [
+      "concrete,tangible,material"
+    ],
+    "notation": "具体(ぐたい)"
+  },
+  {
+    "name": "tsukiai",
+    "trans": [
+      "association,socializing,fellowship"
+    ],
+    "notation": "付(つ)き合(あ)い"
+  },
+  {
+    "name": "ken",
+    "trans": [
+      "prefecture"
+    ],
+    "notation": "券(けん)"
+  },
+  {
+    "name": "sagyou",
+    "trans": [
+      "work,operation,manufacturing,fatigue duty"
+    ],
+    "notation": "作業(さぎょう)"
+  },
+  {
+    "name": "keshou",
+    "trans": [
+      "make-up (cosmetic)"
+    ],
+    "notation": "化粧(けしょう)"
+  },
+  {
+    "name": "songai",
+    "trans": [
+      "damage,injury,loss"
+    ],
+    "notation": "損害(そんがい)"
+  },
+  {
+    "name": "bouken",
+    "trans": [
+      "risk,venture,adventure"
+    ],
+    "notation": "冒険(ぼうけん)"
+  },
+  {
+    "name": "enryo",
+    "trans": [
+      "diffidence,restraint,reserve"
+    ],
+    "notation": "遠慮(えんりょ)"
+  },
+  {
+    "name": "tameshi",
+    "trans": [
+      "trial,test"
+    ],
+    "notation": "試(ため)し"
+  },
+  {
+    "name": "zutsuu",
+    "trans": [
+      "headache"
+    ],
+    "notation": "頭痛(ずつう)"
+  },
+  {
+    "name": "tadashi",
+    "trans": [
+      "(logical) true,regular"
+    ],
+    "notation": "正(ただし)"
+  },
+  {
+    "name": "tada",
+    "trans": [
+      "free of charge,mere,sole,only,usual,common"
+    ],
+    "notation": "唯(ただ)"
+  },
+  {
+    "name": "goukaku",
+    "trans": [
+      "success,passing (e.g. exam),eligibility"
+    ],
+    "notation": "合格(ごうかく)"
+  },
+  {
+    "name": "naru",
+    "trans": [
+      "to become"
+    ],
+    "notation": "成(な)る"
+  },
+  {
+    "name": "idou",
+    "trans": [
+      "removal,migration,movement"
+    ],
+    "notation": "移動(いどう)"
+  },
+  {
+    "name": "toosu",
+    "trans": [
+      "to let pass,to overlook,to continue"
+    ],
+    "notation": "通(とお)す"
+  },
+  {
+    "name": "mottomo",
+    "trans": [
+      "most,extremely"
+    ],
+    "notation": "尤(もっと)も"
+  },
+  {
+    "name": "shinken",
+    "trans": [
+      "seriousness,earnestness"
+    ],
+    "notation": "真剣(しんけん)"
+  },
+  {
+    "name": "uso",
+    "trans": [
+      "lie,falsehood,incorrect fact,inappropriate"
+    ],
+    "notation": "嘘(うそ)"
+  },
+  {
+    "name": "mu",
+    "trans": [
+      "nothing,naught,nil,zero"
+    ],
+    "notation": "無(む)"
+  },
+  {
+    "name": "nana",
+    "trans": [
+      "seven"
+    ],
+    "notation": "七(なな)"
+  },
+  {
+    "name": "insatsu",
+    "trans": [
+      "printing"
+    ],
+    "notation": "印刷(いんさつ)"
+  },
+  {
+    "name": "shinchou",
+    "trans": [
+      "height (of body),stature"
+    ],
+    "notation": "身長(しんちょう)"
+  },
+  {
+    "name": "tora",
+    "trans": [
+      "tiger"
+    ],
+    "notation": "虎(とら)"
+  },
+  {
+    "name": "shijin",
+    "trans": [
+      "poet"
+    ],
+    "notation": "詩人(しじん)"
+  },
+  {
+    "name": "tanni",
+    "trans": [
+      "simply,merely,only,solely"
+    ],
+    "notation": "単(たん)に"
+  },
+  {
+    "name": "michiru",
+    "trans": [
+      "to be full,to rise (tide),to mature,to expire"
+    ],
+    "notation": "満(み)ちる"
+  },
+  {
+    "name": "ku",
+    "trans": [
+      "sentence"
+    ],
+    "notation": "句(く)"
+  },
+  {
+    "name": "shoumei",
+    "trans": [
+      "proof,verification"
+    ],
+    "notation": "証明(しょうめい)"
+  },
+  {
+    "name": "izumi",
+    "trans": [
+      "spring,fountain"
+    ],
+    "notation": "泉(いずみ)"
+  },
+  {
+    "name": "tsukamaru",
+    "trans": [
+      "to be caught,to be arrested"
+    ],
+    "notation": "捕(つか)まる"
+  },
+  {
+    "name": "furu",
+    "trans": [
+      "(1) to wave,to shake,to swing,(2) to sprinkle,(3) to cast (actor),to allocate (work)"
+    ],
+    "notation": "振(ふ)る"
+  },
+  {
+    "name": "guuzen",
+    "trans": [
+      "(by) chance,unexpectedly,suddenly"
+    ],
+    "notation": "偶然(ぐうぜん)"
+  },
+  {
+    "name": "tenkou",
+    "trans": [
+      "weather"
+    ],
+    "notation": "天候(てんこう)"
+  },
+  {
+    "name": "moji",
+    "trans": [
+      "letter (of alphabet),character"
+    ],
+    "notation": "文字(もじ)"
+  },
+  {
+    "name": "soko",
+    "trans": [
+      "bottom,sole"
+    ],
+    "notation": "そこ"
+  },
+  {
+    "name": "tekisuru",
+    "trans": [
+      "to fit,to suit"
+    ],
+    "notation": "適(てき)する"
+  },
+  {
+    "name": "bonyari",
+    "trans": [
+      "absent-minded,block-head,dim,faint,vague"
+    ],
+    "notation": "ぼんやり"
+  },
+  {
+    "name": "shina",
+    "trans": [
+      "thing,article,goods,dignity,article (goods),counter for meal courses"
+    ],
+    "notation": "品(しな)"
+  },
+  {
+    "name": "keiji",
+    "trans": [
+      "criminal case,(police) detective"
+    ],
+    "notation": "刑事(けいじ)"
+  },
+  {
+    "name": "meirei",
+    "trans": [
+      "order,command,decree,directive,(software) instruction"
+    ],
+    "notation": "命令(めいれい)"
+  },
+  {
+    "name": "shingou",
+    "trans": [
+      "traffic lights,signal,semaphore"
+    ],
+    "notation": "信号(しんごう)"
+  },
+  {
+    "name": "yuubin",
+    "trans": [
+      "mail,postal service"
+    ],
+    "notation": "郵便(ゆうびん)"
+  },
+  {
+    "name": "zettai",
+    "trans": [
+      "absolute,unconditional,absoluteness"
+    ],
+    "notation": "絶対(ぜったい)"
+  },
+  {
+    "name": "shizumu",
+    "trans": [
+      "to sink,to feel depressed"
+    ],
+    "notation": "沈(しず)む"
+  },
+  {
+    "name": "shigeki",
+    "trans": [
+      "stimulus,impetus,incentive"
+    ],
+    "notation": "刺激(しげき)"
+  },
+  {
+    "name": "haku",
+    "trans": [
+      "to wear,to put on (lower body)"
+    ],
+    "notation": "履(は)く"
+  },
+  {
+    "name": "noboru",
+    "trans": [
+      "to arise,to ascend,to go up"
+    ],
+    "notation": "昇(のぼ)る"
+  },
+  {
+    "name": "kizuku",
+    "trans": [
+      "to notice,to recognize,to become aware of"
+    ],
+    "notation": "気付(きづ)く"
+  },
+  {
+    "name": "taiki",
+    "trans": [
+      "atmosphere"
+    ],
+    "notation": "大気(たいき)"
+  },
+  {
+    "name": "ketsuron",
+    "trans": [
+      "conclusion"
+    ],
+    "notation": "結論(けつろん)"
+  },
+  {
+    "name": "junban",
+    "trans": [
+      "turn (in line),order of things"
+    ],
+    "notation": "順番(じゅんばん)"
+  },
+  {
+    "name": "ukagau",
+    "trans": [
+      "(hon) to visit,to ask,to inquire"
+    ],
+    "notation": "伺(うかが)う"
+  },
+  {
+    "name": "kaeru",
+    "trans": [
+      "to exchange,to interchange,to substitute,to replace"
+    ],
+    "notation": "替(か)える"
+  },
+  {
+    "name": "suku",
+    "trans": [
+      "(1) to open,to become empty,(2) to be less crowded"
+    ],
+    "notation": "空(す)く"
+  },
+  {
+    "name": "bun",
+    "trans": [
+      "sentence"
+    ],
+    "notation": "文(ぶん)"
+  },
+  {
+    "name": "koukuu",
+    "trans": [
+      "aviation,flying"
+    ],
+    "notation": "航空(こうくう)"
+  },
+  {
+    "name": "pin",
+    "trans": [
+      "pin"
+    ],
+    "notation": "ピン"
+  },
+  {
+    "name": "penki",
+    "trans": [
+      "(n) paint (nl: pek)"
+    ],
+    "notation": "ペンキ"
+  },
+  {
+    "name": "benchi",
+    "trans": [
+      "bench"
+    ],
+    "notation": "ベンチ"
+  },
+  {
+    "name": "mukeru",
+    "trans": [
+      "to turn towards,to point"
+    ],
+    "notation": "向(む)ける"
+  },
+  {
+    "name": "chuushin",
+    "trans": [
+      "center,core,heart,pivot,emphasis,balance"
+    ],
+    "notation": "中心(ちゅうしん)"
+  },
+  {
+    "name": "wan",
+    "trans": [
+      "bay,gulf,inlet"
+    ],
+    "notation": "湾(わん)"
+  },
+  {
+    "name": "koi",
+    "trans": [
+      "love,tender passion"
+    ],
+    "notation": "恋(こい)"
+  },
+  {
+    "name": "kanshin",
+    "trans": [
+      "concern,interest"
+    ],
+    "notation": "関心(かんしん)"
+  },
+  {
+    "name": "mirai",
+    "trans": [
+      "future (life, tense)"
+    ],
+    "notation": "未来(みらい)"
+  },
+  {
+    "name": "nattoku",
+    "trans": [
+      "consent,assent,understanding"
+    ],
+    "notation": "納得(なっとく)"
+  },
+  {
+    "name": "tochi",
+    "trans": [
+      "plot of land,lot,soil"
+    ],
+    "notation": "土地(とち)"
+  },
+  {
+    "name": "tokui",
+    "trans": [
+      "pride,triumph,prosperity"
+    ],
+    "notation": "得意(とくい)"
+  },
+  {
+    "name": "hyouka",
+    "trans": [
+      "valuation,estimation,assessment,evaluation"
+    ],
+    "notation": "評価(ひょうか)"
+  },
+  {
+    "name": "ronbun",
+    "trans": [
+      "thesis,essay,treatise,paper"
+    ],
+    "notation": "論文(ろんぶん)"
+  },
+  {
+    "name": "hara",
+    "trans": [
+      "abdomen,belly,stomach"
+    ],
+    "notation": "腹(はら)"
+  },
+  {
+    "name": "nijuu",
+    "trans": [
+      "20 years old,20th year"
+    ],
+    "notation": "二(に)十(じゅう)"
+  },
+  {
+    "name": "kettei",
+    "trans": [
+      "decision,determination"
+    ],
+    "notation": "決定(けってい)"
+  },
+  {
+    "name": "katsudou",
+    "trans": [
+      "action,activity"
+    ],
+    "notation": "活動(かつどう)"
+  },
+  {
+    "name": "ki",
+    "trans": [
+      ",for (10 days),next (year)"
+    ],
+    "notation": "来(き)"
+  },
+  {
+    "name": "iryou",
+    "trans": [
+      "medical care,medical treatment"
+    ],
+    "notation": "医療(いりょう)"
+  },
+  {
+    "name": "hassha",
+    "trans": [
+      "departure of a vehicle"
+    ],
+    "notation": "発車(はっしゃ)"
+  },
+  {
+    "name": "joudan",
+    "trans": [
+      "jest,joke"
+    ],
+    "notation": "冗談(じょうだん)"
+  },
+  {
+    "name": "saabisu",
+    "trans": [
+      "(1) service,support system,(2) goods or services without charge"
+    ],
+    "notation": "サービス"
+  },
+  {
+    "name": "kyuuni",
+    "trans": [
+      ""
+    ],
+    "notation": "急(きゅう)に"
+  },
+  {
+    "name": "shougai",
+    "trans": [
+      "obstacle,impediment (fault),damage"
+    ],
+    "notation": "障害(しょうがい)"
+  },
+  {
+    "name": "azukeru",
+    "trans": [
+      "to give into custody,to entrust,to deposit"
+    ],
+    "notation": "預(あづ)ける"
+  },
+  {
+    "name": "kyuujo",
+    "trans": [
+      "relief,aid,rescue"
+    ],
+    "notation": "救助(きゅうじょ)"
+  },
+  {
+    "name": "shinyou",
+    "trans": [
+      "confidence,dependence,credit,faith"
+    ],
+    "notation": "信用(しんよう)"
+  },
+  {
+    "name": "seikaku",
+    "trans": [
+      "character,personality"
+    ],
+    "notation": "性格(せいかく)"
+  },
+  {
+    "name": "chokin",
+    "trans": [
+      "(bank) savings"
+    ],
+    "notation": "貯金(ちょきん)"
+  },
+  {
+    "name": "oshaberi",
+    "trans": [
+      "chattering,talk,idle talk"
+    ],
+    "notation": "おしゃべり"
+  },
+  {
+    "name": "aisuru",
+    "trans": [
+      "to love"
+    ],
+    "notation": "愛(あい)する"
+  },
+  {
+    "name": "moto",
+    "trans": [
+      "basis"
+    ],
+    "notation": "素(もと)"
+  },
+  {
+    "name": "tsuugaku",
+    "trans": [
+      "commuting to school"
+    ],
+    "notation": "通学(つうがく)"
+  },
+  {
+    "name": "keikaku",
+    "trans": [
+      "plan,project,schedule,scheme,program"
+    ],
+    "notation": "計画(けいかく)"
+  },
+  {
+    "name": "sa",
+    "trans": [
+      "difference,variation"
+    ],
+    "notation": "差(さ)"
+  },
+  {
+    "name": "ou",
+    "trans": [
+      "king,ruler,sovereign,monarch"
+    ],
+    "notation": "王(おう)"
+  },
+  {
+    "name": "tabi",
+    "trans": [
+      "travel,trip,journey"
+    ],
+    "notation": "旅(たび)"
+  },
+  {
+    "name": "muryou",
+    "trans": [
+      "free,no charge"
+    ],
+    "notation": "無料(むりょう)"
+  },
+  {
+    "name": "kaiketsu",
+    "trans": [
+      "settlement,solution,resolution"
+    ],
+    "notation": "解決(かいけつ)"
+  },
+  {
+    "name": "utagau",
+    "trans": [
+      "to doubt,to distrust,to be suspicious of,to suspect"
+    ],
+    "notation": "疑(うたが)う"
+  },
+  {
+    "name": "jiki",
+    "trans": [
+      "time,season,period"
+    ],
+    "notation": "時期(じき)"
+  },
+  {
+    "name": "sutairu",
+    "trans": [
+      "style"
+    ],
+    "notation": "スタイル"
+  },
+  {
+    "name": "kyanpu",
+    "trans": [
+      "camp"
+    ],
+    "notation": "キャンプ"
+  },
+  {
+    "name": "shoutai",
+    "trans": [
+      "invitation"
+    ],
+    "notation": "招待(しょうたい)"
+  },
+  {
+    "name": "sara",
+    "trans": [
+      "plate,dish"
+    ],
+    "notation": "皿(さら)"
+  },
+  {
+    "name": "shouchi",
+    "trans": [
+      "consent,acceptance,assent,admitting"
+    ],
+    "notation": "承知(しょうち)"
+  },
+  {
+    "name": "menkyo",
+    "trans": [
+      "license,permit,licence,certificate"
+    ],
+    "notation": "免許(めんきょ)"
+  },
+  {
+    "name": "sumimasen",
+    "trans": [
+      "sorry,excuse me"
+    ],
+    "notation": "すみません"
+  },
+  {
+    "name": "sabaku",
+    "trans": [
+      "desert"
+    ],
+    "notation": "砂漠(さばく)"
+  },
+  {
+    "name": "supiichi",
+    "trans": [
+      "speech"
+    ],
+    "notation": "スピーチ"
+  },
+  {
+    "name": "chuushi",
+    "trans": [
+      "suspension,stoppage,discontinuance,interruption"
+    ],
+    "notation": "中止(ちゅうし)"
+  },
+  {
+    "name": "ken",
+    "trans": [
+      "prefecture"
+    ],
+    "notation": "県(けん)"
+  },
+  {
+    "name": "kinko",
+    "trans": [
+      "safe,vault,treasury,provider of funds"
+    ],
+    "notation": "金庫(きんこ)"
+  },
+  {
+    "name": "eikyou",
+    "trans": [
+      "influence,effect"
+    ],
+    "notation": "影響(えいきょう)"
+  },
+  {
+    "name": "katagata",
+    "trans": [
+      "persons,this and that,here and there,everywhere"
+    ],
+    "notation": "方々(かたがた)"
+  },
+  {
+    "name": "ita",
+    "trans": [
+      "board,plank"
+    ],
+    "notation": "板(いた)"
+  },
+  {
+    "name": "utsu",
+    "trans": [
+      "to attack,to defeat,to destroy"
+    ],
+    "notation": "撃(う)つ"
+  },
+  {
+    "name": "yonaka",
+    "trans": [
+      "midnight,dead of night"
+    ],
+    "notation": "夜中(よなか)"
+  },
+  {
+    "name": "meikaku",
+    "trans": [
+      "clear up,clarify,define"
+    ],
+    "notation": "明確(めいかく)"
+  },
+  {
+    "name": "sawagi",
+    "trans": [
+      "uproar,disturbance"
+    ],
+    "notation": "騒(さわ)ぎ"
+  },
+  {
+    "name": "tantou",
+    "trans": [
+      "(in) charge"
+    ],
+    "notation": "担当(たんとう)"
+  },
+  {
+    "name": "nioi",
+    "trans": [
+      "odour,scent,smell,stench"
+    ],
+    "notation": "匂(にお)い"
+  },
+  {
+    "name": "shinsatsu",
+    "trans": [
+      "medical examination"
+    ],
+    "notation": "診察(しんさつ)"
+  },
+  {
+    "name": "kyuukei",
+    "trans": [
+      "rest,break,recess,intermission"
+    ],
+    "notation": "休憩(きゅうけい)"
+  },
+  {
+    "name": "koibito",
+    "trans": [
+      "lover,sweetheart"
+    ],
+    "notation": "恋人(こいびと)"
+  },
+  {
+    "name": "katsuyou",
+    "trans": [
+      "conjugation,practical use"
+    ],
+    "notation": "活用(かつよう)"
+  },
+  {
+    "name": "uchuu",
+    "trans": [
+      "universe,cosmos,space"
+    ],
+    "notation": "宇宙(うちゅう)"
+  },
+  {
+    "name": "shouhi",
+    "trans": [
+      "consumption,expenditure"
+    ],
+    "notation": "消費(しょうひ)"
+  },
+  {
+    "name": "seijin",
+    "trans": [
+      "adult"
+    ],
+    "notation": "成人(せいじん)"
+  },
+  {
+    "name": "make",
+    "trans": [
+      "defeat,loss,losing (a game)"
+    ],
+    "notation": "負(ま)け"
+  },
+  {
+    "name": "arawareru",
+    "trans": [
+      "(1) to appear,to come in sight,to become visible,(2) to express oneself"
+    ],
+    "notation": "現(あらわ)れる"
+  },
+  {
+    "name": "musubu",
+    "trans": [
+      "to tie,to bind,to link"
+    ],
+    "notation": "結(むす)ぶ"
+  },
+  {
+    "name": "chi",
+    "trans": [
+      "earth"
+    ],
+    "notation": "地(ち)"
+  },
+  {
+    "name": "raitaa",
+    "trans": [
+      "lighter,rider,writer"
+    ],
+    "notation": "ライター"
+  },
+  {
+    "name": "kamoku",
+    "trans": [
+      "(school) subject,curriculum,course"
+    ],
+    "notation": "科目(かもく)"
+  },
+  {
+    "name": "oitsuku",
+    "trans": [
+      "to overtake,to catch up (with)"
+    ],
+    "notation": "追(お)い付(つ)く"
+  },
+  {
+    "name": "moto",
+    "trans": [
+      "basis"
+    ],
+    "notation": "基(もと)"
+  },
+  {
+    "name": "tobidasu",
+    "trans": [
+      "to jump out,to rush out,to fly out"
+    ],
+    "notation": "飛(と)び出(だ)す"
+  },
+  {
+    "name": "me",
+    "trans": [
+      "sprout"
+    ],
+    "notation": "芽(め)"
+  },
+  {
+    "name": "buji",
+    "trans": [
+      "safety,peace,quietness"
+    ],
+    "notation": "無事(ぶじ)"
+  },
+  {
+    "name": "kaikei",
+    "trans": [
+      "account,finance,accountant"
+    ],
+    "notation": "会計(かいけい)"
+  },
+  {
+    "name": "mottomo",
+    "trans": [
+      "most,extremely"
+    ],
+    "notation": "最(もっと)も"
+  },
+  {
+    "name": "kousei",
+    "trans": [
+      "organization,composition"
+    ],
+    "notation": "構成(こうせい)"
+  },
+  {
+    "name": "senjitsu",
+    "trans": [
+      "the other day,a few days ago"
+    ],
+    "notation": "先日(せんじつ)"
+  },
+  {
+    "name": "happyou",
+    "trans": [
+      "announcement,publication"
+    ],
+    "notation": "発表(はっぴょう)"
+  },
+  {
+    "name": "oka",
+    "trans": [
+      "hill,height,knoll,rising ground"
+    ],
+    "notation": "丘(おか)"
+  },
+  {
+    "name": "shurui",
+    "trans": [
+      "variety,kind,type"
+    ],
+    "notation": "種類(しゅるい)"
+  },
+  {
+    "name": "hakken",
+    "trans": [
+      "discovery,detection,finding"
+    ],
+    "notation": "発見(はっけん)"
+  },
+  {
+    "name": "wazato",
+    "trans": [
+      "on purpose"
+    ],
+    "notation": "わざと"
+  },
+  {
+    "name": "kakomu",
+    "trans": [
+      "to surround,to encircle"
+    ],
+    "notation": "囲(かこ)む"
+  },
+  {
+    "name": "kouhei",
+    "trans": [
+      "fairness,impartial,justice"
+    ],
+    "notation": "公平(こうへい)"
+  },
+  {
+    "name": "nichiyou",
+    "trans": [
+      "Sunday"
+    ],
+    "notation": "日曜(にちよう)"
+  },
+  {
+    "name": "hyou",
+    "trans": [
+      "table (e.g. Tab 1),chart,list"
+    ],
+    "notation": "表(ひょう)"
+  },
+  {
+    "name": "shougo",
+    "trans": [
+      "noon,mid-day"
+    ],
+    "notation": "正午(しょうご)"
+  },
+  {
+    "name": "meshi",
+    "trans": [
+      "(sl) meals,food"
+    ],
+    "notation": "飯(めし)"
+  },
+  {
+    "name": "hakkou",
+    "trans": [
+      "issue (publications)"
+    ],
+    "notation": "発行(はっこう)"
+  },
+  {
+    "name": "juutai",
+    "trans": [
+      "congestion (e.g. traffic),delay,stagnation"
+    ],
+    "notation": "渋滞(じゅうたい)"
+  },
+  {
+    "name": "honmono",
+    "trans": [
+      "genuine article"
+    ],
+    "notation": "本物(ほんもの)"
+  },
+  {
+    "name": "tsugitsugi",
+    "trans": [
+      "in succession,one by one"
+    ],
+    "notation": "次々(つぎつぎ)"
+  },
+  {
+    "name": "kyoukasho",
+    "trans": [
+      "text book"
+    ],
+    "notation": "教科書(きょうかしょ)"
+  },
+  {
+    "name": "bureeki",
+    "trans": [
+      "a brake"
+    ],
+    "notation": "ブレーキ"
+  },
+  {
+    "name": "fune",
+    "trans": [
+      "ship,boat,watercraft,shipping,vessel,steamship"
+    ],
+    "notation": "船(ふね)"
+  },
+  {
+    "name": "ue",
+    "trans": [
+      "(1) first volume,(2) superior quality,(3) governmental"
+    ],
+    "notation": "上(うえ)"
+  },
+  {
+    "name": "machigaeru",
+    "notation": "間違(まちが)える"
+  },
+  {
+    "name": "shougakkou",
+    "notation": "小学校(しょうがっこう)"
+  },
+  {
+    "name": "aji",
+    "notation": "味(あじ)"
+  },
+  {
+    "name": "hazu",
+    "notation": "はず"
+  },
+  {
+    "name": "ooita",
+    "notation": "大分(おおいた)"
+  },
+  {
+    "name": "nakunaru",
+    "notation": "無(な)くなる"
+  },
+  {
+    "name": "inoru",
+    "notation": "祈(いの)る"
+  },
+  {
+    "name": "erabu",
+    "notation": "選(えら)ぶ"
+  },
+  {
+    "name": "sageru",
+    "notation": "下(さ)げる"
+  },
+  {
+    "name": "goshujin",
+    "notation": "御(ご)主人(しゅじん)"
+  },
+  {
+    "name": "konoaida",
+    "notation": "このあいだ"
+  },
+  {
+    "name": "modoru",
+    "notation": "戻(もど)る"
+  },
+  {
+    "name": "dondon",
+    "notation": "どんどん"
+  },
+  {
+    "name": "zehi",
+    "trans": [
+      "certainly,without fail"
+    ],
+    "notation": "ぜひ"
+  },
+  {
+    "name": "mezurashii",
+    "notation": "珍(めずら)しい"
+  },
+  {
+    "name": "kyoukai",
+    "notation": "教会(きょうかい)"
+  },
+  {
+    "name": "kenbutsu",
+    "notation": "見物(けんぶつ)"
+  },
+  {
+    "name": "sugoi",
+    "trans": [
+      "terrible,dreadful,terrific,amazing,great"
+    ],
+    "notation": "凄(すご)い"
+  },
+  {
+    "name": "sewa",
+    "trans": [
+      "looking after,help,aid,assistance"
+    ],
+    "notation": "世話(せわ)"
+  },
+  {
+    "name": "fukai",
+    "notation": "深(ふか)い"
+  },
+  {
+    "name": "koto",
+    "trans": [
+      "thing,matter,fact,circumstances"
+    ],
+    "notation": "こと"
+  },
+  {
+    "name": "musume",
+    "notation": "娘(むすめ)"
+  },
+  {
+    "name": "kaigishitsu",
+    "notation": "会議(かいぎ)室(しつ)"
+  },
+  {
+    "name": "tomaru",
+    "notation": "泊(と)まる"
+  },
+  {
+    "name": "eda",
+    "notation": "枝(えだ)"
+  },
+  {
+    "name": "mukau",
+    "notation": "向(む)かう"
+  },
+  {
+    "name": "yamu",
+    "notation": "止(や)む"
+  },
+  {
+    "name": "tateru",
+    "notation": "建(た)てる"
+  },
+  {
+    "name": "shikata",
+    "notation": "仕方(しかた)"
+  },
+  {
+    "name": "shikkari",
+    "notation": "しっかり"
+  },
+  {
+    "name": "suna",
+    "notation": "砂(すな)"
+  },
+  {
+    "name": "hantai",
+    "notation": "反対(はんたい)"
+  },
+  {
+    "name": "ki",
+    "trans": [
+      ",for (10 days),next (year)"
+    ],
+    "notation": "気(き)"
+  },
+  {
+    "name": "yume",
+    "notation": "夢(ゆめ)"
+  },
+  {
+    "name": "kisoku",
+    "notation": "規則(きそく)"
+  },
+  {
+    "name": "bangumi",
+    "notation": "番組(ばんぐみ)"
+  },
+  {
+    "name": "furidasu",
+    "notation": "降(ふ)り出(だ)す"
+  },
+  {
+    "name": "suku",
+    "trans": [
+      "(1) to open,to become empty,(2) to be less crowded"
+    ],
+    "notation": "すく"
+  },
+  {
+    "name": "repouto/ripouto",
+    "notation": "レポート/リポート"
+  },
+  {
+    "name": "konya",
+    "notation": "今夜(こんや)"
+  },
+  {
+    "name": "suiei",
+    "notation": "水泳(すいえい)"
+  },
+  {
+    "name": "hazukashii",
+    "notation": "恥(は)ずかしい"
+  },
+  {
+    "name": "kawaku",
+    "notation": "乾(かわ)く"
+  },
+  {
+    "name": "bai",
+    "notation": "倍(ばい)"
+  },
+  {
+    "name": "mawari",
+    "trans": [
+      "circumference,surroundings,circulation"
+    ],
+    "notation": "周(まわ)り"
+  },
+  {
+    "name": "setsumei",
+    "notation": "説明(せつめい)"
+  },
+  {
+    "name": "taiin",
+    "notation": "退院(たいいん)"
+  },
+  {
+    "name": "jiten",
+    "notation": "辞典(じてん)"
+  },
+  {
+    "name": "hikkosu",
+    "notation": "引(ひ)っ越(こ)す"
+  },
+  {
+    "name": "danbou",
+    "notation": "暖房(だんぼう)"
+  },
+  {
+    "name": "fukushuu",
+    "notation": "復習(ふくしゅう)"
+  },
+  {
+    "name": "meshiagaru",
+    "notation": "召(め)し上(あ)がる"
+  },
+  {
+    "name": "sensou",
+    "notation": "戦争(せんそう)"
+  },
+  {
+    "name": "kouchou",
+    "notation": "校長(こうちょう)"
+  },
+  {
+    "name": "tenkiyohou",
+    "notation": "天気(てんき)予報(よほう)"
+  },
+  {
+    "name": "kaeri",
+    "notation": "帰(かえ)り"
+  },
+  {
+    "name": "hotondo",
+    "notation": "ほとんど"
+  },
+  {
+    "name": "jinja",
+    "notation": "神社(じんじゃ)"
+  },
+  {
+    "name": "boueki",
+    "notation": "貿易(ぼうえき)"
+  },
+  {
+    "name": "tetsudau",
+    "notation": "手伝(てつだ)う"
+  },
+  {
+    "name": "bunka",
+    "notation": "文化(ぶんか)"
+  },
+  {
+    "name": "isogu",
+    "notation": "急(いそ)ぐ"
+  },
+  {
+    "name": "hitsuyou",
+    "notation": "必要(ひつよう)"
+  },
+  {
+    "name": "sofu",
+    "notation": "祖父(そふ)"
+  },
+  {
+    "name": "tokkyuu",
+    "notation": "特急(とっきゅう)"
+  },
+  {
+    "name": "o/kanemochi",
+    "notation": "お・金持(かねも)ち"
+  },
+  {
+    "name": "hiraku",
+    "notation": "開(ひら)く"
+  },
+  {
+    "name": "dekirudake",
+    "trans": [
+      "if at all possible"
+    ],
+    "notation": "できるだけ"
+  },
+  {
+    "name": "okureru",
+    "notation": "遅(おく)れる"
+  },
+  {
+    "name": "betsu",
+    "notation": "別(べつ)"
+  },
+  {
+    "name": "ichido",
+    "notation": "一(いち)度(ど)"
+  },
+  {
+    "name": "hajimeru",
+    "notation": "始(はじ)める"
+  },
+  {
+    "name": "a",
+    "notation": "あ"
+  },
+  {
+    "name": "taipu",
+    "notation": "タイプ"
+  },
+  {
+    "name": "tazuneru",
+    "notation": "訪(たず)ねる"
+  },
+  {
+    "name": "guai",
+    "notation": "具合(ぐあい)"
+  },
+  {
+    "name": "naoru",
+    "notation": "直(なお)る"
+  },
+  {
+    "name": "mushi",
+    "trans": [
+      "disregard,ignore"
+    ],
+    "notation": "虫(むし)"
+  },
+  {
+    "name": "tsuzukeru",
+    "notation": "続(つづ)ける"
+  },
+  {
+    "name": "koutsuu",
+    "notation": "交通(こうつう)"
+  },
+  {
+    "name": "junbi",
+    "trans": [
+      "preparation,arrangements,provision,reserve"
+    ],
+    "notation": "準備(じゅんび)"
+  },
+  {
+    "name": "omoidasu",
+    "notation": "思(おも)い出(だ)す"
+  },
+  {
+    "name": "keiken",
+    "trans": [
+      "experience"
+    ],
+    "notation": "経験(けいけん)"
+  },
+  {
+    "name": "yawarakai",
+    "notation": "柔(やわ)らかい"
+  },
+  {
+    "name": "jidai",
+    "notation": "時代(じだい)"
+  },
+  {
+    "name": "oriru",
+    "notation": "下(お)りる"
+  },
+  {
+    "name": "ayamaru",
+    "notation": "謝(あやま)る"
+  },
+  {
+    "name": "ko",
+    "notation": "子(こ)"
+  },
+  {
+    "name": "kowareru",
+    "notation": "壊(こわ)れる"
+  },
+  {
+    "name": "mina",
+    "trans": [
+      "all,everyone,everybody"
+    ],
+    "notation": "皆(みな)"
+  },
+  {
+    "name": "bijutsukan",
+    "notation": "美術館(びじゅつかん)"
+  },
+  {
+    "name": "yakeru",
+    "notation": "焼(や)ける"
+  },
+  {
+    "name": "shi",
+    "trans": [
+      "poem,verse of poetry"
+    ],
+    "notation": "市(し)"
+  },
+  {
+    "name": "waapuro",
+    "notation": "ワープロ"
+  },
+  {
+    "name": "gasorinsutando",
+    "notation": "ガソリンスタンド"
+  },
+  {
+    "name": "wakasu",
+    "notation": "沸(わ)かす"
+  },
+  {
+    "name": "hidoi",
+    "notation": "ひどい"
+  },
+  {
+    "name": "nakanaka",
+    "trans": [
+      "very,considerably,easily"
+    ],
+    "notation": "中々(なかなか)"
+  },
+  {
+    "name": "sakan",
+    "notation": "盛(さか)ん"
+  },
+  {
+    "name": "shokuryouhin",
+    "notation": "食料(しょくりょう)品(ひん)"
+  },
+  {
+    "name": "kureru",
+    "notation": "暮(く)れる"
+  },
+  {
+    "name": "torikaeru",
+    "notation": "取(と)り替(か)える"
+  },
+  {
+    "name": "omimai",
+    "notation": "お見舞(みま)い"
+  },
+  {
+    "name": "shokuji",
+    "trans": [
+      "meal"
+    ],
+    "notation": "食事(しょくじ)"
+  },
+  {
+    "name": "shippai",
+    "notation": "失敗(しっぱい)"
+  },
+  {
+    "name": "naku",
+    "notation": "泣(な)く"
+  },
+  {
+    "name": "asobi",
+    "notation": "遊(あそ)び"
+  },
+  {
+    "name": "morau",
+    "trans": [
+      "to receive"
+    ],
+    "notation": "もらう"
+  },
+  {
+    "name": "nikaidate",
+    "notation": "二(に)階(かい)建(だ)て"
+  },
+  {
+    "name": "yu",
+    "notation": "湯(ゆ)"
+  },
+  {
+    "name": "omiyage",
+    "notation": "お土産(みやげ)"
+  },
+  {
+    "name": "tomeru",
+    "trans": [
+      "to fasten,to turn off,to detain"
+    ],
+    "notation": "止(と)める"
+  },
+  {
+    "name": "karera",
+    "trans": [
+      "they (usually male)"
+    ],
+    "notation": "彼(かれ)ら"
+  },
+  {
+    "name": "waku",
+    "notation": "沸(わ)く"
+  },
+  {
+    "name": "hoshi",
+    "notation": "星(ほし)"
+  },
+  {
+    "name": "tokubetsu",
+    "notation": "特別(とくべつ)"
+  },
+  {
+    "name": "mawaru",
+    "notation": "回(まわ)る"
+  },
+  {
+    "name": "sodateru",
+    "notation": "育(そだ)てる"
+  },
+  {
+    "name": "tebukuro",
+    "notation": "手袋(てぶくろ)"
+  },
+  {
+    "name": "kougai",
+    "notation": "郊外(こうがい)"
+  },
+  {
+    "name": "nigai",
+    "notation": "苦(にが)い"
+  },
+  {
+    "name": "tsumori",
+    "notation": "つもり"
+  },
+  {
+    "name": "ukagau",
+    "trans": [
+      "(hon) to visit,to ask,to inquire"
+    ],
+    "notation": "うかがう"
+  },
+  {
+    "name": "anna",
+    "notation": "あんな"
+  },
+  {
+    "name": "katazukeru",
+    "notation": "片付(かたづ)ける"
+  },
+  {
+    "name": "shiraseru",
+    "notation": "知(し)らせる"
+  },
+  {
+    "name": "juusho",
+    "notation": "住所(じゅうしょ)"
+  },
+  {
+    "name": "shumi",
+    "notation": "趣味(しゅみ)"
+  },
+  {
+    "name": "tsuku",
+    "trans": [
+      "to settle in (place),to take (seat, position),to study (under teacher)"
+    ],
+    "notation": "付(つ)く"
+  },
+  {
+    "name": "dakara",
+    "trans": [
+      "so,therefore"
+    ],
+    "notation": "だから"
+  },
+  {
+    "name": "koukousei",
+    "notation": "高校生(こうこうせい)"
+  },
+  {
+    "name": "kaigan",
+    "notation": "海岸(かいがん)"
+  },
+  {
+    "name": "kou",
+    "notation": "こう"
+  },
+  {
+    "name": "mitsukeru",
+    "notation": "見(み)つける"
+  },
+  {
+    "name": "kamu",
+    "notation": "噛(か)む"
+  },
+  {
+    "name": "shinsetsu",
+    "notation": "親切(しんせつ)"
+  },
+  {
+    "name": "tsuki",
+    "trans": [
+      "moon,month"
+    ],
+    "notation": "つき"
+  },
+  {
+    "name": "kikoeru",
+    "notation": "聞(き)こえる"
+  },
+  {
+    "name": "naruhodo",
+    "notation": "なるほど"
+  },
+  {
+    "name": "tsutsumu",
+    "notation": "包(つつ)む"
+  },
+  {
+    "name": "mukaeru",
+    "notation": "迎(むか)える"
+  },
+  {
+    "name": "miso",
+    "notation": "味噌(みそ)"
+  },
+  {
+    "name": "ha",
+    "notation": "葉(は)"
+  },
+  {
+    "name": "kazaru",
+    "notation": "飾(かざ)る"
+  },
+  {
+    "name": "koumuin",
+    "notation": "公務員(こうむいん)"
+  },
+  {
+    "name": "itadaku",
+    "trans": [
+      "to receive,to take food or drink (hum)"
+    ],
+    "notation": "いただく"
+  },
+  {
+    "name": "chi",
+    "trans": [
+      "earth"
+    ],
+    "notation": "血(ち)"
+  },
+  {
+    "name": "tekitou",
+    "notation": "適当(てきとう)"
+  },
+  {
+    "name": "niru",
+    "notation": "似(に)る"
+  },
+  {
+    "name": "undou",
+    "trans": [
+      "motion,exercise"
+    ],
+    "notation": "運動(うんどう)"
+  },
+  {
+    "name": "kanojo",
+    "notation": "彼女(かのじょ)"
+  },
+  {
+    "name": "igai",
+    "trans": [
+      "unexpected,surprising"
+    ],
+    "notation": "以外(いがい)"
+  },
+  {
+    "name": "koujou",
+    "trans": [
+      "factory,plant,mill,workshop"
+    ],
+    "notation": "工場(こうじょう)"
+  },
+  {
+    "name": "mori",
+    "trans": [
+      "helping,serving"
+    ],
+    "notation": "森(もり)"
+  },
+  {
+    "name": "noboru",
+    "trans": [
+      "to arise,to ascend,to go up"
+    ],
+    "notation": "上(のぼ)る"
+  },
+  {
+    "name": "tame",
+    "notation": "為(ため)"
+  },
+  {
+    "name": "au",
+    "notation": "合(あ)う"
+  },
+  {
+    "name": "susumu",
+    "notation": "進(すす)む"
+  },
+  {
+    "name": "ureshii",
+    "trans": [
+      "happy,glad,pleasant"
+    ],
+    "notation": "うれしい"
+  },
+  {
+    "name": "maniau",
+    "notation": "間(ま)に合(あ)う"
+  },
+  {
+    "name": "saraigetsu",
+    "notation": "さ来月(らいげつ)"
+  },
+  {
+    "name": "mitsukaru",
+    "notation": "見(み)つかる"
+  },
+  {
+    "name": "keikaku",
+    "trans": [
+      "plan,project,schedule,scheme,program"
+    ],
+    "notation": "計画(けいかく)"
+  },
+  {
+    "name": "josei",
+    "notation": "女性(じょせい)"
+  },
+  {
+    "name": "ukeru",
+    "notation": "受(う)ける"
+  },
+  {
+    "name": "teinei",
+    "notation": "丁寧(ていねい)"
+  },
+  {
+    "name": "makeru",
+    "notation": "負(ま)ける"
+  },
+  {
+    "name": "saka",
+    "notation": "坂(さか)"
+  },
+  {
+    "name": "yoyaku",
+    "notation": "予約(よやく)"
+  },
+  {
+    "name": "ajia",
+    "notation": "アジア"
+  },
+  {
+    "name": "buchou",
+    "notation": "部長(ぶちょう)"
+  },
+  {
+    "name": "shitagi",
+    "notation": "下着(したぎ)"
+  },
+  {
+    "name": "chuusha",
+    "trans": [
+      "parking (e.g. car)"
+    ],
+    "notation": "注射(ちゅうしゃ)"
+  },
+  {
+    "name": "suteeki",
+    "notation": "ステーキ"
+  },
+  {
+    "name": "okurimono",
+    "notation": "贈(おく)り物(もの)"
+  },
+  {
+    "name": "kega/suru",
+    "notation": "けが・する"
+  },
+  {
+    "name": "chan",
+    "notation": "ちゃん"
+  },
+  {
+    "name": "gozonji",
+    "notation": "ご存(ぞん)じ"
+  },
+  {
+    "name": "chuushajou",
+    "notation": "駐車(ちゅうしゃ)場(じょう)"
+  },
+  {
+    "name": "yushutsu",
+    "trans": [
+      "export"
+    ],
+    "notation": "輸出(ゆしゅつ)"
+  },
+  {
+    "name": "mazu",
+    "trans": [
+      "first (of all),to start with,about,almost,hardly (with neg. verb)"
+    ],
+    "notation": "まず"
+  },
+  {
+    "name": "kyoumi",
+    "notation": "興味(きょうみ)"
+  },
+  {
+    "name": "dougu",
+    "notation": "道具(どうぐ)"
+  },
+  {
+    "name": "nareru",
+    "notation": "慣(な)れる"
+  },
+  {
+    "name": "sawaru",
+    "notation": "触(さわ)る"
+  },
+  {
+    "name": "keisatsu",
+    "notation": "警察(けいさつ)"
+  },
+  {
+    "name": "utsusu",
+    "trans": [
+      "to remove,to transfer,to infect"
+    ],
+    "notation": "写(うつ)す"
+  },
+  {
+    "name": "kankei",
+    "notation": "関係(かんけい)"
+  },
+  {
+    "name": "yakusoku",
+    "notation": "約束(やくそく)"
+  },
+  {
+    "name": "kyuukou",
+    "notation": "急行(きゅうこう)"
+  },
+  {
+    "name": "kantan",
+    "notation": "簡単(かんたん)"
+  },
+  {
+    "name": "ten",
+    "notation": "点(てん)"
+  },
+  {
+    "name": "kaeru",
+    "trans": [
+      "to exchange,to interchange,to substitute,to replace"
+    ],
+    "notation": "変(か)える"
+  },
+  {
+    "name": "hirou",
+    "notation": "拾(ひろ)う"
+  },
+  {
+    "name": "kimaru",
+    "notation": "決(きま)る"
+  },
+  {
+    "name": "sonna",
+    "notation": "そんな"
+  },
+  {
+    "name": "shinpai",
+    "trans": [
+      "worry,concern,anxiety,care"
+    ],
+    "notation": "心配(しんぱい)"
+  },
+  {
+    "name": "nigeru",
+    "notation": "逃(に)げる"
+  },
+  {
+    "name": "tanoshimi",
+    "notation": "楽(たの)しみ"
+  },
+  {
+    "name": "kimochi",
+    "notation": "気持(きも)ち"
+  },
+  {
+    "name": "kami",
+    "trans": [
+      "god"
+    ],
+    "notation": "髪(かみ)"
+  },
+  {
+    "name": "zenzen",
+    "trans": [
+      "(1) wholly,entirely,completely,(2) not at all (with neg. verb)"
+    ],
+    "notation": "ぜんぜん"
+  },
+  {
+    "name": "ojousan",
+    "notation": "お嬢(じょう)さん"
+  },
+  {
+    "name": "rekishi",
+    "notation": "歴史(れきし)"
+  },
+  {
+    "name": "norimono",
+    "notation": "乗(の)り物(もの)"
+  },
+  {
+    "name": "nesshin",
+    "trans": [
+      "zeal,enthusiasm"
+    ],
+    "notation": "ねっしん"
+  },
+  {
+    "name": "hige",
+    "notation": "ひげ"
+  },
+  {
+    "name": "taitei",
+    "trans": [
+      "usually,generally"
+    ],
+    "notation": "たいてい"
+  },
+  {
+    "name": "genin",
+    "notation": "原因(げんいん)"
+  },
+  {
+    "name": "kudasaru",
+    "trans": [
+      "(hon) to give,to confer"
+    ],
+    "notation": "くださる"
+  },
+  {
+    "name": "itasu",
+    "notation": "致(いた)す"
+  },
+  {
+    "name": "kaiwa",
+    "notation": "会話(かいわ)"
+  },
+  {
+    "name": "okosu",
+    "notation": "起(おこ)す"
+  },
+  {
+    "name": "kanai",
+    "notation": "家内(かない)"
+  },
+  {
+    "name": "kyaku",
+    "notation": "客(きゃく)"
+  },
+  {
+    "name": "kuraberu",
+    "notation": "比(くら)べる"
+  },
+  {
+    "name": "esukareetaa",
+    "notation": "エスカレーター"
+  },
+  {
+    "name": "kokusai",
+    "notation": "国際(こくさい)"
+  },
+  {
+    "name": "yaseru",
+    "notation": "痩(や)せる"
+  },
+  {
+    "name": "tenisu",
+    "notation": "テニス"
+  },
+  {
+    "name": "nusumu",
+    "notation": "盗(ぬす)む"
+  },
+  {
+    "name": "goranninaru",
+    "notation": "ごらんになる"
+  },
+  {
+    "name": "chiri",
+    "trans": [
+      "dust,dirt"
+    ],
+    "notation": "地理(ちり)"
+  },
+  {
+    "name": "kowata",
+    "notation": "木綿(こわた)"
+  },
+  {
+    "name": "shiai",
+    "notation": "試合(しあい)"
+  },
+  {
+    "name": "boku",
+    "notation": "僕(ぼく)"
+  },
+  {
+    "name": "kakkou",
+    "trans": [
+      "shape,form,posture,suitability"
+    ],
+    "notation": "かっこう"
+  },
+  {
+    "name": "afurika",
+    "notation": "アフリカ"
+  },
+  {
+    "name": "anzen",
+    "notation": "安全(あんぜん)"
+  },
+  {
+    "name": "kaaten",
+    "notation": "カーテン"
+  },
+  {
+    "name": "shourai",
+    "notation": "将来(しょうらい)"
+  },
+  {
+    "name": "hiruyasumi",
+    "notation": "昼休(ひるやす)み"
+  },
+  {
+    "name": "tenrankai",
+    "notation": "展覧(てんらん)会(かい)"
+  },
+  {
+    "name": "otto",
+    "notation": "夫(おっと)"
+  },
+  {
+    "name": "chittomo",
+    "notation": "ちっとも"
+  },
+  {
+    "name": "aisatsu-suru",
+    "notation": "あいさつ-する"
+  },
+  {
+    "name": "tsuzuku",
+    "notation": "続(つづ)く"
+  },
+  {
+    "name": "kyousou",
+    "notation": "競争(きょうそう)"
+  },
+  {
+    "name": "geshuku",
+    "notation": "下宿(げしゅく)"
+  },
+  {
+    "name": "kabe",
+    "notation": "壁(かべ)"
+  },
+  {
+    "name": "tooku",
+    "notation": "遠(とお)く"
+  },
+  {
+    "name": "kagaku",
+    "trans": [
+      "chemistry"
+    ],
+    "notation": "科学(かがく)"
+  },
+  {
+    "name": "sobo",
+    "notation": "祖母(そぼ)"
+  },
+  {
+    "name": "akachan",
+    "notation": "あかちゃん"
+  },
+  {
+    "name": "saigo",
+    "notation": "最後(さいご)"
+  },
+  {
+    "name": "uketsuke",
+    "notation": "受付(うけつけ)"
+  },
+  {
+    "name": "todokeru",
+    "notation": "届(とど)ける"
+  },
+  {
+    "name": "ijou",
+    "trans": [
+      "strangeness,abnormality,disorder"
+    ],
+    "notation": "以上(いじょう)"
+  },
+  {
+    "name": "odoru",
+    "notation": "踊(おど)る"
+  },
+  {
+    "name": "hikidasu",
+    "notation": "引(ひ)き出(だ)す"
+  },
+  {
+    "name": "dorobou",
+    "notation": "泥棒(どろぼう)"
+  },
+  {
+    "name": "mukashi",
+    "notation": "昔(むかし)"
+  },
+  {
+    "name": "oru",
+    "trans": [
+      "to be (animate),to be,to exist"
+    ],
+    "notation": "折(お)る"
+  },
+  {
+    "name": "yubi",
+    "notation": "指(ゆび)"
+  },
+  {
+    "name": "mousugu",
+    "notation": "もうすぐ"
+  },
+  {
+    "name": "tazuneru",
+    "notation": "尋(たず)ねる"
+  },
+  {
+    "name": "handobaggu",
+    "notation": "ハンドバッグ"
+  },
+  {
+    "name": "doubutsuen",
+    "notation": "動物(どうぶつ)園(えん)"
+  },
+  {
+    "name": "sukkari",
+    "notation": "すっかり"
+  },
+  {
+    "name": "hijouni",
+    "notation": "非常(ひじょう)に"
+  },
+  {
+    "name": "wareru",
+    "trans": [
+      "to divide,to cut,to break,to halve"
+    ],
+    "notation": "割(わ)れる"
+  },
+  {
+    "name": "yoru",
+    "trans": [
+      "evening,night"
+    ],
+    "notation": "寄(よ)る"
+  },
+  {
+    "name": "ageru",
+    "notation": "あげる"
+  },
+  {
+    "name": "paato",
+    "notation": "パート"
+  },
+  {
+    "name": "tsuru",
+    "notation": "釣(つ)る"
+  },
+  {
+    "name": "houritsu",
+    "notation": "法律(ほうりつ)"
+  },
+  {
+    "name": "shitaku",
+    "trans": [
+      "preparation"
+    ],
+    "notation": "支度(したく)"
+  },
+  {
+    "name": "soudan",
+    "trans": [
+      "consultation,discussion"
+    ],
+    "notation": "相談(そうだん)"
+  },
+  {
+    "name": "yakunitatsu",
+    "notation": "役(やく)に立(た)つ"
+  },
+  {
+    "name": "fumu",
+    "notation": "踏(ふ)む"
+  },
+  {
+    "name": "daitai",
+    "notation": "大体(だいたい)"
+  },
+  {
+    "name": "kangaeru",
+    "notation": "考(かんが)える"
+  },
+  {
+    "name": "toutou",
+    "notation": "とうとう"
+  },
+  {
+    "name": "mou",
+    "notation": "毛(もう)"
+  },
+  {
+    "name": "mochiron",
+    "trans": [
+      "of course,certainly,naturally"
+    ],
+    "notation": "もちろん"
+  },
+  {
+    "name": "shinamono",
+    "notation": "品物(しなもの)"
+  },
+  {
+    "name": "tsuma",
+    "notation": "妻(つま)"
+  },
+  {
+    "name": "fakkusu",
+    "notation": "ファックス"
+  },
+  {
+    "name": "seiji",
+    "notation": "政治(せいじ)"
+  },
+  {
+    "name": "rusu",
+    "notation": "留守(るす)"
+  },
+  {
+    "name": "suruto",
+    "trans": [
+      "thereupon,hereupon"
+    ],
+    "notation": "すると"
+  },
+  {
+    "name": "nageru",
+    "notation": "投(な)げる"
+  },
+  {
+    "name": "odoroku",
+    "notation": "驚(おどろ)く"
+  },
+  {
+    "name": "kawaru",
+    "notation": "変(か)わる"
+  },
+  {
+    "name": "tatoeba",
+    "notation": "例(たと)えば"
+  },
+  {
+    "name": "orei",
+    "notation": "お礼(れい)"
+  },
+  {
+    "name": "tsureru",
+    "notation": "連(つ)れる"
+  },
+  {
+    "name": "tokoya",
+    "notation": "とこや"
+  },
+  {
+    "name": "keizai",
+    "notation": "経済(けいざい)"
+  },
+  {
+    "name": "koudou",
+    "trans": [
+      "action,conduct,behaviour,mobilization"
+    ],
+    "notation": "講堂(こうどう)"
+  },
+  {
+    "name": "jishin",
+    "trans": [
+      "by oneself,personally"
+    ],
+    "notation": "地震(じしん)"
+  },
+  {
+    "name": "beru",
+    "notation": "ベル"
+  },
+  {
+    "name": "nebou",
+    "notation": "寝坊(ねぼう)"
+  },
+  {
+    "name": "kimi",
+    "trans": [
+      "-like,-looking,-looked"
+    ],
+    "notation": "君(きみ)"
+  },
+  {
+    "name": "konogoro",
+    "notation": "このごろ"
+  },
+  {
+    "name": "yunyuu",
+    "trans": [
+      "importation,import,introduction"
+    ],
+    "notation": "輸入(ゆにゅう)"
+  },
+  {
+    "name": "hisashiburi",
+    "notation": "久(ひさ)しぶり"
+  },
+  {
+    "name": "kisetsu",
+    "notation": "季節(きせつ)"
+  },
+  {
+    "name": "seikatsu",
+    "notation": "生活(せいかつ)"
+  },
+  {
+    "name": "nyuuin",
+    "trans": [
+      "hospitalization"
+    ],
+    "notation": "入院(にゅういん)"
+  },
+  {
+    "name": "suri",
+    "notation": "すり"
+  },
+  {
+    "name": "shoutai",
+    "trans": [
+      "invitation"
+    ],
+    "notation": "招待(しょうたい)"
+  },
+  {
+    "name": "nemuru",
+    "notation": "眠(ねむ)る"
+  },
+  {
+    "name": "futon",
+    "notation": "布団(ふとん)"
+  },
+  {
+    "name": "nasaru",
+    "notation": "なさる"
+  },
+  {
+    "name": "tateru",
+    "notation": "立(た)てる"
+  },
+  {
+    "name": "wakareru",
+    "notation": "別(わか)れる"
+  },
+  {
+    "name": "wasuremono",
+    "notation": "忘(わす)れ物(もの)"
+  },
+  {
+    "name": "kowai",
+    "notation": "怖(こわ)い"
+  },
+  {
+    "name": "suutsukeesu",
+    "notation": "スーツケース"
+  },
+  {
+    "name": "yogoreru",
+    "notation": "汚(よご)れる"
+  },
+  {
+    "name": "garasu",
+    "notation": "ガラス"
+  },
+  {
+    "name": "bei",
+    "notation": "米(べい)"
+  },
+  {
+    "name": "keeki",
+    "notation": "ケーキ"
+  },
+  {
+    "name": "otsuri",
+    "notation": "おつり"
+  },
+  {
+    "name": "moushiageru",
+    "notation": "申(もう)し上(あ)げる"
+  },
+  {
+    "name": "saraishuu",
+    "notation": "さ来週(らいしゅう)"
+  },
+  {
+    "name": "komu",
+    "notation": "込(こ)む"
+  },
+  {
+    "name": "utsu",
+    "trans": [
+      "to attack,to defeat,to destroy"
+    ],
+    "notation": "打(う)つ"
+  },
+  {
+    "name": "kudaru",
+    "notation": "下(くだ)る"
+  },
+  {
+    "name": "hikoujou",
+    "notation": "飛行場(ひこうじょう)"
+  },
+  {
+    "name": "kougyou",
+    "notation": "工業(こうぎょう)"
+  },
+  {
+    "name": "tera",
+    "notation": "寺(てら)"
+  },
+  {
+    "name": "fune",
+    "trans": [
+      "ship,boat,watercraft,shipping,vessel,steamship"
+    ],
+    "notation": "舟(ふね)"
+  },
+  {
+    "name": "chikara",
+    "notation": "力(ちから)"
+  },
+  {
+    "name": "tokuni",
+    "notation": "特(とく)に"
+  },
+  {
+    "name": "iken",
+    "notation": "意見(いけん)"
+  },
+  {
+    "name": "hayashi",
+    "notation": "林(はやし)"
+  },
+  {
+    "name": "owari",
+    "trans": [
+      "the end"
+    ],
+    "notation": "終(お)わり"
+  },
+  {
+    "name": "shiken",
+    "notation": "試験(しけん)"
+  },
+  {
+    "name": "nuru",
+    "notation": "塗(ぬ)る"
+  },
+  {
+    "name": "ji",
+    "notation": "字(じ)"
+  },
+  {
+    "name": "naru",
+    "trans": [
+      "to become"
+    ],
+    "notation": "鳴(な)る"
+  },
+  {
+    "name": "katachi",
+    "notation": "形(かたち)"
+  },
+  {
+    "name": "tsutaeru",
+    "notation": "伝(つた)える"
+  },
+  {
+    "name": "narubeku",
+    "notation": "なるべく"
+  },
+  {
+    "name": "kiken",
+    "notation": "危険(きけん)"
+  },
+  {
+    "name": "saisho",
+    "notation": "最初(さいしょ)"
+  },
+  {
+    "name": "hatsuon",
+    "notation": "発音(はつおん)"
+  },
+  {
+    "name": "honyaku",
+    "notation": "翻訳(ほんやく)"
+  },
+  {
+    "name": "ito",
+    "notation": "糸(いと)"
+  },
+  {
+    "name": "ura",
+    "notation": "裏(うら)"
+  },
+  {
+    "name": "tochuu",
+    "notation": "途中(とちゅう)"
+  },
+  {
+    "name": "okashii",
+    "notation": "おかしい"
+  },
+  {
+    "name": "asai",
+    "notation": "浅(あさ)い"
+  },
+  {
+    "name": "haiken",
+    "notation": "拝見(はいけん)"
+  },
+  {
+    "name": "you",
+    "trans": [
+      "to get drunk,to become intoxicated"
+    ],
+    "notation": "用(よう)"
+  },
+  {
+    "name": "sorede",
+    "notation": "それで"
+  },
+  {
+    "name": "mieru",
+    "notation": "見(み)える"
+  },
+  {
+    "name": "otaku",
+    "notation": "お宅(たく)"
+  },
+  {
+    "name": "tariru",
+    "notation": "足(た)りる"
+  },
+  {
+    "name": "nioi",
+    "trans": [
+      "odour,scent,smell,stench"
+    ],
+    "notation": "におい"
+  },
+  {
+    "name": "hi",
+    "trans": [
+      "sun,sunshine,day"
+    ],
+    "notation": "日(ひ)"
+  },
+  {
+    "name": "hen",
+    "notation": "変(へん)"
+  },
+  {
+    "name": "yahari/yappari",
+    "notation": "やはり/やっぱり"
+  },
+  {
+    "name": "omocha",
+    "notation": "おもちゃ"
+  },
+  {
+    "name": "ossharu",
+    "notation": "おっしゃる"
+  },
+  {
+    "name": "jinkou",
+    "trans": [
+      "artificial,manmade,human work,human skill,artificiality"
+    ],
+    "notation": "人口(じんこう)"
+  },
+  {
+    "name": "gasorin",
+    "notation": "ガソリン"
+  },
+  {
+    "name": "norikaeru",
+    "notation": "乗(の)り換(か)える"
+  },
+  {
+    "name": "riyou",
+    "notation": "利用(りよう)"
+  },
+  {
+    "name": "atsumeru",
+    "notation": "集(あつ)める"
+  },
+  {
+    "name": "nyuugaku",
+    "trans": [
+      "entry to school or university,matriculation"
+    ],
+    "notation": "入学(にゅうがく)"
+  },
+  {
+    "name": "budou",
+    "notation": "ぶどう"
+  },
+  {
+    "name": "youi",
+    "trans": [
+      "easy,simple,plain"
+    ],
+    "notation": "用意(ようい)"
+  },
+  {
+    "name": "suugaku",
+    "notation": "数学(すうがく)"
+  },
+  {
+    "name": "kotori",
+    "notation": "小鳥(ことり)"
+  },
+  {
+    "name": "sutto",
+    "notation": "すっと"
+  },
+  {
+    "name": "shibaraku",
+    "notation": "しばらく"
+  },
+  {
+    "name": "yoroshii",
+    "trans": [
+      "(hon) good,OK,all right,fine,very well,will do,may,can"
+    ],
+    "notation": "よろしい"
+  },
+  {
+    "name": "suidou",
+    "notation": "水道(すいどう)"
+  },
+  {
+    "name": "tatami",
+    "notation": "畳(たたみ)"
+  },
+  {
+    "name": "sakki",
+    "notation": "さっき"
+  },
+  {
+    "name": "majime",
+    "trans": [
+      "diligent,serious,honest"
+    ],
+    "notation": "まじめ"
+  },
+  {
+    "name": "kanarazu",
+    "notation": "必(かなら)ず"
+  },
+  {
+    "name": "mataha",
+    "notation": "または"
+  },
+  {
+    "name": "okujou",
+    "notation": "屋上(おくじょう)"
+  },
+  {
+    "name": "suku",
+    "trans": [
+      "(1) to open,to become empty,(2) to be less crowded"
+    ],
+    "notation": "空(す)く"
+  },
+  {
+    "name": "dentou",
+    "trans": [
+      "tradition,convention"
+    ],
+    "notation": "電灯(でんとう)"
+  },
+  {
+    "name": "hanami",
+    "notation": "花見(はなみ)"
+  },
+  {
+    "name": "senaka",
+    "notation": "背中(せなか)"
+  },
+  {
+    "name": "inaka",
+    "notation": "田舎(いなか)"
+  },
+  {
+    "name": "kondo",
+    "notation": "今度(こんど)"
+  },
+  {
+    "name": "uchi",
+    "trans": [
+      "inside"
+    ],
+    "notation": "うち"
+  },
+  {
+    "name": "suteru",
+    "notation": "捨(す)てる"
+  },
+  {
+    "name": "yasashii",
+    "notation": "優(やさ)しい"
+  },
+  {
+    "name": "sabishii",
+    "notation": "寂(さび)しい"
+  },
+  {
+    "name": "taifuu",
+    "notation": "台風(たいふう)"
+  },
+  {
+    "name": "hakobu",
+    "notation": "運(はこ)ぶ"
+  },
+  {
+    "name": "taoreru",
+    "notation": "倒(たお)れる"
+  },
+  {
+    "name": "oreru",
+    "notation": "折(お)れる"
+  },
+  {
+    "name": "biru",
+    "notation": "ビル"
+  },
+  {
+    "name": "haisha",
+    "notation": "歯医者(はいしゃ)"
+  },
+  {
+    "name": "ijimeru",
+    "notation": "いじめる"
+  },
+  {
+    "name": "nemui",
+    "notation": "眠(ねむ)い"
+  },
+  {
+    "name": "sandoicchi",
+    "notation": "サンドイッチ"
+  },
+  {
+    "name": "arubaito",
+    "notation": "アルバイト"
+  },
+  {
+    "name": "sen",
+    "notation": "線(せん)"
+  },
+  {
+    "name": "kuuki",
+    "notation": "空気(くうき)"
+  },
+  {
+    "name": "seisan",
+    "trans": [
+      "production,manufacture"
+    ],
+    "notation": "生産(せいさん)"
+  },
+  {
+    "name": "reibou",
+    "notation": "冷房(れいぼう)"
+  },
+  {
+    "name": "nedan",
+    "trans": [
+      "price,cost"
+    ],
+    "notation": "ねだん"
+  },
+  {
+    "name": "nakunaru",
+    "notation": "亡(な)くなる"
+  },
+  {
+    "name": "sorehodo",
+    "notation": "それほど"
+  },
+  {
+    "name": "naoru",
+    "notation": "治(なお)る"
+  },
+  {
+    "name": "kenkyuushitsu",
+    "notation": "研究(けんきゅう)室(しつ)"
+  },
+  {
+    "name": "wake",
+    "trans": [
+      "meaning,reason,circumstances,can be deduced,situation"
+    ],
+    "notation": "訳(わけ)"
+  },
+  {
+    "name": "fueru",
+    "notation": "増(ふ)える"
+  },
+  {
+    "name": "hikaru",
+    "notation": "光(ひか)る"
+  },
+  {
+    "name": "kusa",
+    "notation": "草(くさ)"
+  },
+  {
+    "name": "henji",
+    "notation": "返事(へんじ)"
+  },
+  {
+    "name": "yogiru",
+    "notation": "過(よ)ぎる"
+  },
+  {
+    "name": "gasu",
+    "notation": "ガス"
+  },
+  {
+    "name": "ken/kata/katai",
+    "notation": "堅(けん)/硬(かた)/固(かた)い"
+  },
+  {
+    "name": "konpyuuta/konpyuutaa",
+    "notation": "コンピュータ/コンピューター"
+  },
+  {
+    "name": "kotae",
+    "notation": "答(こたえ)"
+  },
+  {
+    "name": "koukou",
+    "notation": "高校(こうこう)"
+  },
+  {
+    "name": "ryouhou",
+    "notation": "両方(りょうほう)"
+  },
+  {
+    "name": "kokoro",
+    "notation": "心(こころ)"
+  },
+  {
+    "name": "shiraberu",
+    "notation": "調(しら)べる"
+  },
+  {
+    "name": "kakeru",
+    "trans": [
+      "to be lacking"
+    ],
+    "notation": "掛(か)ける"
+  },
+  {
+    "name": "shimin",
+    "notation": "市民(しみん)"
+  },
+  {
+    "name": "futoru",
+    "notation": "太(ふと)る"
+  },
+  {
+    "name": "okonau",
+    "notation": "行(おこな)う"
+  },
+  {
+    "name": "youji",
+    "notation": "用事(ようじ)"
+  },
+  {
+    "name": "sashiageru",
+    "notation": "差(さ)し上(あ)げる"
+  },
+  {
+    "name": "oya",
+    "trans": [
+      "parents"
+    ],
+    "notation": "親(おや)"
+  },
+  {
+    "name": "muri",
+    "notation": "無理(むり)"
+  },
+  {
+    "name": "sou",
+    "trans": [
+      "so"
+    ],
+    "notation": "そう"
+  },
+  {
+    "name": "manga",
+    "notation": "漫画(まんが)"
+  },
+  {
+    "name": "kumo",
+    "notation": "雲(くも)"
+  },
+  {
+    "name": "basho",
+    "notation": "場所(ばしょ)"
+  },
+  {
+    "name": "kachou",
+    "notation": "課長(かちょう)"
+  },
+  {
+    "name": "piano",
+    "notation": "ピアノ"
+  },
+  {
+    "name": "kikai",
+    "trans": [
+      "machine,mechanism"
+    ],
+    "notation": "機会(きかい)"
+  },
+  {
+    "name": "oideninaru",
+    "notation": "おいでになる"
+  },
+  {
+    "name": "kyuu",
+    "trans": [
+      "nine"
+    ],
+    "notation": "急(きゅう)"
+  },
+  {
+    "name": "jiko",
+    "notation": "事故(じこ)"
+  },
+  {
+    "name": "futsuu",
+    "notation": "普通(ふつう)"
+  },
+  {
+    "name": "yotei",
+    "notation": "予定(よてい)"
+  },
+  {
+    "name": "tana",
+    "notation": "棚(たな)"
+  },
+  {
+    "name": "uriba",
+    "notation": "売(う)り場(ば)"
+  },
+  {
+    "name": "moshi",
+    "notation": "もし"
+  },
+  {
+    "name": "riyuu",
+    "notation": "理由(りゆう)"
+  },
+  {
+    "name": "arukouru",
+    "notation": "アルコール"
+  },
+  {
+    "name": "inai",
+    "notation": "以内(いない)"
+  },
+  {
+    "name": "housou",
+    "trans": [
+      "broadcast,broadcasting"
+    ],
+    "notation": "放送(ほうそう)"
+  },
+  {
+    "name": "kesshite",
+    "notation": "決(けっ)して"
+  },
+  {
+    "name": "yorokobu",
+    "notation": "喜(よろこ)ぶ"
+  },
+  {
+    "name": "shuukan",
+    "trans": [
+      "week,weekly"
+    ],
+    "notation": "習慣(しゅうかん)"
+  },
+  {
+    "name": "chuugakkou",
+    "notation": "中学校(ちゅうがっこう)"
+  },
+  {
+    "name": "oshiire",
+    "notation": "押(お)し入(い)れ"
+  },
+  {
+    "name": "tashika",
+    "notation": "確(たし)か"
+  },
+  {
+    "name": "kubi",
+    "notation": "首(くび)"
+  },
+  {
+    "name": "kyouiku",
+    "notation": "教育(きょういく)"
+  },
+  {
+    "name": "sagasu",
+    "notation": "探(さが)す"
+  },
+  {
+    "name": "shinbunsha",
+    "notation": "新聞(しんぶん)社(しゃ)"
+  },
+  {
+    "name": "mannaka",
+    "notation": "真中(まんなか)"
+  },
+  {
+    "name": "mairu",
+    "notation": "参(まい)る"
+  },
+  {
+    "name": "koshou",
+    "trans": [
+      "break-down,failure,accident,out of order"
+    ],
+    "notation": "故障(こしょう)"
+  },
+  {
+    "name": "katsu",
+    "notation": "勝(か)つ"
+  },
+  {
+    "name": "wariai",
+    "notation": "割合(わりあい)"
+  },
+  {
+    "name": "kowasu",
+    "notation": "壊(こわ)す"
+  },
+  {
+    "name": "sukuriin",
+    "notation": "スクリーン"
+  },
+  {
+    "name": "tsugou",
+    "notation": "都合(つごう)"
+  },
+  {
+    "name": "chuui",
+    "notation": "注意(ちゅうい)"
+  },
+  {
+    "name": "shusseki",
+    "trans": [
+      "attendance,presence"
+    ],
+    "notation": "出席(しゅっせき)"
+  },
+  {
+    "name": "sarada",
+    "notation": "サラダ"
+  },
+  {
+    "name": "uso",
+    "trans": [
+      "lie,falsehood,incorrect fact,inappropriate"
+    ],
+    "notation": "うそ"
+  },
+  {
+    "name": "subarashii",
+    "trans": [
+      "wonderful,splendid,magnificent"
+    ],
+    "notation": "すばらしい"
+  },
+  {
+    "name": "jiyuu",
+    "notation": "自由(じゆう)"
+  },
+  {
+    "name": "daiji",
+    "notation": "大事(だいじ)"
+  },
+  {
+    "name": "gijutsu",
+    "notation": "技術(ぎじゅつ)"
+  },
+  {
+    "name": "kimono",
+    "notation": "着物(きもの)"
+  },
+  {
+    "name": "minato",
+    "notation": "港(みなと)"
+  },
+  {
+    "name": "isshoukenmei",
+    "notation": "一生懸命(いっしょうけんめい)"
+  },
+  {
+    "name": "mousu",
+    "notation": "申(もう)す"
+  },
+  {
+    "name": "tasu",
+    "notation": "足(た)す"
+  },
+  {
+    "name": "shoukai",
+    "notation": "紹介(しょうかい)"
+  },
+  {
+    "name": "harau",
+    "notation": "払(はら)う"
+  },
+  {
+    "name": "to",
+    "trans": [
+      "capital"
+    ],
+    "notation": "都(と)"
+  },
+  {
+    "name": "sorosoro",
+    "notation": "そろそろ"
+  },
+  {
+    "name": "un",
+    "trans": [
+      "hum, hmmm, well, erm, huh?"
+    ],
+    "notation": "うん"
+  },
+  {
+    "name": "ishi",
+    "trans": [
+      "doctor,physician"
+    ],
+    "notation": "石(いし)"
+  },
+  {
+    "name": "soreni",
+    "notation": "それに"
+  },
+  {
+    "name": "kaji",
+    "trans": [
+      "housework,domestic chores"
+    ],
+    "notation": "火事(かじ)"
+  },
+  {
+    "name": "keshigomu",
+    "notation": "消(け)しゴム"
+  },
+  {
+    "name": "hodo",
+    "trans": [
+      "degree,extent,bounds,limit"
+    ],
+    "notation": "ほど"
+  },
+  {
+    "name": "nikki",
+    "notation": "日記(にっき)"
+  },
+  {
+    "name": "bungaku",
+    "notation": "文学(ぶんがく)"
+  },
+  {
+    "name": "yureru",
+    "notation": "揺(ゆ)れる"
+  },
+  {
+    "name": "oto",
+    "trans": [
+      "sound,note"
+    ],
+    "notation": "音(おと)"
+  },
+  {
+    "name": "shakai",
+    "notation": "社会(しゃかい)"
+  },
+  {
+    "name": "sofuto",
+    "notation": "ソフト"
+  },
+  {
+    "name": "untenshu",
+    "notation": "運転(うんてん)手(しゅ)"
+  },
+  {
+    "name": "kureru",
+    "notation": "くれる"
+  },
+  {
+    "name": "ma",
+    "trans": [
+      "space,room,time,pause"
+    ],
+    "notation": "間(ま)"
+  },
+  {
+    "name": "shuppatsu",
+    "trans": [
+      "departure"
+    ],
+    "notation": "出発(しゅっぱつ)"
+  },
+  {
+    "name": "okoru",
+    "trans": [
+      "to occur,to happen"
+    ],
+    "notation": "怒(おこ)る"
+  },
+  {
+    "name": "jama",
+    "trans": [
+      "hindrance,intrusion"
+    ],
+    "notation": "じゃま"
+  },
+  {
+    "name": "ika",
+    "notation": "以下(いか)"
+  },
+  {
+    "name": "kimi",
+    "trans": [
+      "-like,-looking,-looked"
+    ],
+    "notation": "君(きみ)"
+  },
+  {
+    "name": "kitto",
+    "notation": "きっと"
+  },
+  {
+    "name": "ochiru",
+    "notation": "落(おち)る"
+  },
+  {
+    "name": "okage",
+    "notation": "おかげ"
+  },
+  {
+    "name": "shouchi",
+    "trans": [
+      "consent,acceptance,assent,admitting"
+    ],
+    "notation": "承知(しょうち)"
+  },
+  {
+    "name": "kamau",
+    "trans": [
+      "to mind,to care about,to be concerned about"
+    ],
+    "notation": "かまう"
+  },
+  {
+    "name": "akanbou",
+    "notation": "赤(あか)ん坊(ぼう)"
+  },
+  {
+    "name": "kinjo",
+    "notation": "近所(きんじょ)"
+  },
+  {
+    "name": "anaunsaa",
+    "notation": "アナウンサー"
+  },
+  {
+    "name": "suutsu",
+    "notation": "スーツ"
+  },
+  {
+    "name": "juudou",
+    "notation": "柔道(じゅうどう)"
+  },
+  {
+    "name": "shima",
+    "notation": "島(しま)"
+  },
+  {
+    "name": "bunpou",
+    "notation": "文法(ぶんぽう)"
+  },
+  {
+    "name": "sonnani",
+    "notation": "そんなに"
+  },
+  {
+    "name": "kimeru",
+    "notation": "決(き)める"
+  },
+  {
+    "name": "kenka/suru",
+    "notation": "けんか・する"
+  },
+  {
+    "name": "tsukamaeru",
+    "notation": "捕(つか)まえる"
+  },
+  {
+    "name": "homeru",
+    "trans": [
+      "to praise,to admire,to speak well"
+    ],
+    "notation": "ほめる"
+  },
+  {
+    "name": "sawagu",
+    "notation": "騒(さわ)ぐ"
+  },
+  {
+    "name": "ryokan",
+    "notation": "旅館(りょかん)"
+  },
+  {
+    "name": "oyogikata",
+    "notation": "泳(およ)ぎ方(かた)"
+  },
+  {
+    "name": "ude",
+    "notation": "腕(うで)"
+  },
+  {
+    "name": "annai",
+    "trans": [
+      "information,guidance,leading"
+    ],
+    "notation": "案内(あんない)"
+  },
+  {
+    "name": "juufun",
+    "notation": "十(じゅう)分(ふん)"
+  },
+  {
+    "name": "gochisou",
+    "notation": "ごちそう"
+  },
+  {
+    "name": "nureru",
+    "trans": [
+      "to get wet"
+    ],
+    "notation": "ぬれる"
+  },
+  {
+    "name": "tooru",
+    "notation": "通(とお)る"
+  },
+  {
+    "name": "sumu",
+    "notation": "済(す)む"
+  },
+  {
+    "name": "daigakusei",
+    "notation": "大学生(だいがくせい)"
+  },
+  {
+    "name": "hi",
+    "trans": [
+      "sun,sunshine,day"
+    ],
+    "notation": "火(ひ)"
+  },
+  {
+    "name": "renraku",
+    "notation": "連絡(れんらく)"
+  },
+  {
+    "name": "kenkyuu",
+    "notation": "研究(けんきゅう)"
+  },
+  {
+    "name": "ippai",
+    "notation": "いっぱい"
+  },
+  {
+    "name": "irassharu",
+    "notation": "いらっしゃる"
+  },
+  {
+    "name": "chekku/suru",
+    "notation": "チェック・する"
+  },
+  {
+    "name": "kougi",
+    "notation": "講義(こうぎ)"
+  },
+  {
+    "name": "purezento",
+    "notation": "プレゼント"
+  },
+  {
+    "name": "tenin",
+    "notation": "店員(てんいん)"
+  },
+  {
+    "name": "denpou",
+    "notation": "電報(でんぽう)"
+  },
+  {
+    "name": "tekisuto",
+    "notation": "テキスト"
+  },
+  {
+    "name": "zannen",
+    "notation": "残念(ざんねん)"
+  },
+  {
+    "name": "komakai",
+    "notation": "細(こま)かい"
+  },
+  {
+    "name": "kanashii",
+    "notation": "悲(かな)しい"
+  },
+  {
+    "name": "yaku",
+    "trans": [
+      "approximately,about,some"
+    ],
+    "notation": "焼(や)く"
+  },
+  {
+    "name": "hakkiri",
+    "notation": "はっきり"
+  },
+  {
+    "name": "hikidashi",
+    "notation": "引(ひ)き出(だ)し"
+  },
+  {
+    "name": "korekara",
+    "notation": "これから"
+  },
+  {
+    "name": "hikari",
+    "notation": "光(ひかり)"
+  },
+  {
+    "name": "otosu",
+    "notation": "落(おと)す"
+  },
+  {
+    "name": "anshin",
+    "notation": "安心(あんしん)"
+  },
+  {
+    "name": "sekai",
+    "notation": "世界(せかい)"
+  },
+  {
+    "name": "dansei",
+    "notation": "男性(だんせい)"
+  },
+  {
+    "name": "nodo",
+    "trans": [
+      "throat"
+    ],
+    "notation": "のど"
+  },
+  {
+    "name": "rakumu",
+    "notation": "楽(らく)む"
+  },
+  {
+    "name": "kibishii",
+    "notation": "厳(きび)しい"
+  },
+  {
+    "name": "ningyou",
+    "notation": "人形(にんぎょう)"
+  },
+  {
+    "name": "yatto",
+    "notation": "やっと"
+  },
+  {
+    "name": "omou",
+    "notation": "思(おも)う"
+  },
+  {
+    "name": "enryo",
+    "trans": [
+      "diffidence,restraint,reserve"
+    ],
+    "notation": "遠慮(えんりょ)"
+  },
+  {
+    "name": "mottomo",
+    "trans": [
+      "most,extremely"
+    ],
+    "notation": "もっとも"
+  },
+  {
+    "name": "shousetsu",
+    "notation": "小説(しょうせつ)"
+  },
+  {
+    "name": "fuben",
+    "notation": "不便(ふべん)"
+  },
+  {
+    "name": "naosu",
+    "notation": "直(なお)す"
+  },
+  {
+    "name": "senpai",
+    "notation": "先輩(せんぱい)"
+  },
+  {
+    "name": "netsu",
+    "notation": "熱(ねつ)"
+  },
+  {
+    "name": "fukuzatsu",
+    "notation": "複雑(ふくざつ)"
+  },
+  {
+    "name": "oku",
+    "trans": [
+      "interior,inner part"
+    ],
+    "notation": "億(おく)"
+  },
+  {
+    "name": "shachou",
+    "notation": "社長(しゃちょう)"
+  },
+  {
+    "name": "konsaato",
+    "notation": "コンサート"
+  },
+  {
+    "name": "jimusho",
+    "notation": "事務所(じむしょ)"
+  },
+  {
+    "name": "sandaru",
+    "notation": "サンダル"
+  },
+  {
+    "name": "kinu",
+    "notation": "絹(きぬ)"
+  },
+  {
+    "name": "jamu",
+    "notation": "ジャム"
+  },
+  {
+    "name": "zuibun",
+    "trans": [
+      "extremely"
+    ],
+    "notation": "ずいぶん"
+  },
+  {
+    "name": "omatsuri",
+    "notation": "お祭(まつ)り"
+  },
+  {
+    "name": "tomeru",
+    "trans": [
+      "to fasten,to turn off,to detain"
+    ],
+    "notation": "止(と)める"
+  },
+  {
+    "name": "baai",
+    "notation": "場合(ばあい)"
+  },
+  {
+    "name": "utsuru",
+    "notation": "移(うつ)る"
+  },
+  {
+    "name": "nokoru",
+    "notation": "残(のこ)る"
+  },
+  {
+    "name": "okuru",
+    "trans": [
+      "to send,to give to,to award to,to confer on"
+    ],
+    "notation": "送(おく)る"
+  },
+  {
+    "name": "sangyou",
+    "notation": "産業(さんぎょう)"
+  },
+  {
+    "name": "ugoku",
+    "notation": "動(うご)く"
+  },
+  {
+    "name": "warau",
+    "notation": "笑(わら)う"
+  },
+  {
+    "name": "reji",
+    "notation": "レジ"
+  },
+  {
+    "name": "hieru",
+    "notation": "冷(ひ)える"
+  },
+  {
+    "name": "seki",
+    "trans": [
+      "cough"
+    ],
+    "notation": "席(せき)"
+  },
+  {
+    "name": "ueru",
+    "notation": "植(う)える"
+  },
+  {
+    "name": "shikaru",
+    "trans": [
+      "to scold"
+    ],
+    "notation": "しかる"
+  },
+  {
+    "name": "seiyou",
+    "notation": "西洋(せいよう)"
+  },
+  {
+    "name": "ashita",
+    "trans": [
+      "tomorrow"
+    ],
+    "notation": "明日(あした)"
+  },
+  {
+    "name": "saikin",
+    "notation": "最近(さいきん)"
+  },
+  {
+    "name": "musuko",
+    "notation": "息子(むすこ)"
+  },
+  {
+    "name": "keredo/keredomo",
+    "notation": "けれど/けれども"
+  },
+  {
+    "name": "amerika",
+    "notation": "アメリカ"
+  },
+  {
+    "name": "kawari",
+    "notation": "代(か)わり"
+  },
+  {
+    "name": "takaru",
+    "notation": "集(たか)る"
+  },
+  {
+    "name": "tsukeru",
+    "trans": [
+      "to attach,to join,to add,to append"
+    ],
+    "notation": "漬(つ)ける"
+  },
+  {
+    "name": "mizuumi",
+    "notation": "湖(みずうみ)"
+  },
+  {
+    "name": "suberu",
+    "notation": "滑(すべ)る"
+  },
+  {
+    "name": "tamani",
+    "notation": "たまに"
+  },
+  {
+    "name": "keshiki",
+    "notation": "景色(けしき)"
+  },
+  {
+    "name": "odori",
+    "notation": "踊(おど)り"
+  },
+  {
+    "name": "akusesarii",
+    "notation": "アクセサリー"
+  },
+  {
+    "name": "umai",
+    "trans": [
+      "delicious"
+    ],
+    "notation": "うまい"
+  },
+  {
+    "name": "yubiwa",
+    "notation": "指輪(ゆびわ)"
+  },
+  {
+    "name": "sotsugyou",
+    "notation": "卒業(そつぎょう)"
+  },
+  {
+    "name": "tadashii",
+    "notation": "正(ただ)しい"
+  },
+  {
+    "name": "sumi",
+    "notation": "隅(すみ)"
+  },
+  {
+    "name": "kisha",
+    "trans": [
+      "reporter"
+    ],
+    "notation": "汽車(きしゃ)"
+  },
+  {
+    "name": "igaku",
+    "notation": "医学(いがく)"
+  },
+  {
+    "name": "aa",
+    "notation": "ああ"
+  },
+  {
+    "name": "sutereo",
+    "notation": "ステレオ"
+  },
+  {
+    "name": "kaigi",
+    "notation": "会議(かいぎ)"
+  },
+  {
+    "name": "hyou",
+    "trans": [
+      "table (e.g. Tab 1),chart,list"
+    ],
+    "notation": "表(ひょう)"
+  },
+  {
+    "name": "gomi",
+    "notation": "ごみ"
+  },
+  {
+    "name": "kaijou",
+    "notation": "会場(かいじょう)"
+  },
+  {
+    "name": "ikiru",
+    "notation": "生(い)きる"
+  },
+  {
+    "name": "bikkuri/suru",
+    "notation": "びっくり・する"
+  },
+  {
+    "name": "yoshuu",
+    "notation": "予習(よしゅう)"
+  },
+  {
+    "name": "kagami",
+    "notation": "鏡(かがみ)"
+  },
+  {
+    "name": "utsukushii",
+    "notation": "美(うつく)しい"
+  },
+  {
+    "name": "kibun",
+    "notation": "気分(きぶん)"
+  },
+  {
+    "name": "kangofu",
+    "notation": "看護(かんご)婦(ふ)"
+  },
+  {
+    "name": "hiruma",
+    "notation": "昼間(ひるま)"
+  },
+  {
+    "name": "kayou",
+    "trans": [
+      "(abbr) Tuesday"
+    ],
+    "notation": "通(かよ)う"
+  },
+  {
+    "name": "pasokon",
+    "notation": "パソコン"
+  },
+  {
+    "name": "kare",
+    "notation": "彼(かれ)"
+  },
+  {
+    "name": "dame",
+    "trans": [
+      "useless,no good,hopeless"
+    ],
+    "notation": "だめ"
+  },
+  {
+    "name": "outobai",
+    "notation": "オートバイ"
+  },
+  {
+    "name": "oiwai",
+    "notation": "お祝(いわ)い"
+  },
+  {
+    "name": "unten",
+    "trans": [
+      "operation,motion,driving"
+    ],
+    "notation": "運転(うんてん)"
+  },
+  {
+    "name": "kuukou",
+    "notation": "空港(くうこう)"
+  },
+  {
+    "name": "koutougakkou",
+    "notation": "高等(こうとう)学校(がっこう)"
+  },
+  {
+    "name": "nijuusai",
+    "notation": "二(に)十(じゅう)歳(さい)"
+  },
+  {
+    "name": "haizara",
+    "notation": "灰皿(はいざら)"
+  },
+  {
+    "name": "motto",
+    "notation": "もっと"
+  },
+  {
+    "name": "iru",
+    "notation": "要(い)る"
+  },
+  {
+    "name": "midori",
+    "notation": "緑(みどり)"
+  },
+  {
+    "name": "zasshi",
+    "notation": "雑誌(ざっし)"
+  },
+  {
+    "name": "au",
+    "notation": "会(あ)う"
+  },
+  {
+    "name": "shashin",
+    "notation": "写真(しゃしん)"
+  },
+  {
+    "name": "kotoshi",
+    "notation": "今年(ことし)"
+  },
+  {
+    "name": "obaasan",
+    "notation": "おばあさん"
+  },
+  {
+    "name": "hiku",
+    "trans": [
+      "to run somebody over (with vehicle),to knock someone down"
+    ],
+    "notation": "引(ひ)く"
+  },
+  {
+    "name": "chairo",
+    "notation": "茶色(ちゃいろ)"
+  },
+  {
+    "name": "urusai",
+    "trans": [
+      "noisy,loud,fussy"
+    ],
+    "notation": "煩(うるさ)い"
+  },
+  {
+    "name": "abiru",
+    "trans": [
+      "to bathe,to bask in the sun,to shower"
+    ],
+    "notation": "あびる"
+  },
+  {
+    "name": "tsurai",
+    "trans": [
+      "painful,heart-breaking"
+    ],
+    "notation": "辛(つら)い"
+  },
+  {
+    "name": "najiranai",
+    "notation": "詰(なじ)らない"
+  },
+  {
+    "name": "shinu",
+    "notation": "死(し)ぬ"
+  },
+  {
+    "name": "nochi",
+    "trans": [
+      "afterwards,since then,in the future"
+    ],
+    "notation": "後(のち)"
+  },
+  {
+    "name": "nanatsu",
+    "notation": "七(なな)つ"
+  },
+  {
+    "name": "shinbun",
+    "notation": "新聞(しんぶん)"
+  },
+  {
+    "name": "yasashii",
+    "notation": "易(やさ)しい"
+  },
+  {
+    "name": "mura",
+    "notation": "村(むら)"
+  },
+  {
+    "name": "onaji",
+    "notation": "同(おな)じ"
+  },
+  {
+    "name": "kitte",
+    "notation": "切手(きって)"
+  },
+  {
+    "name": "fuutou",
+    "notation": "封筒(ふうとう)"
+  },
+  {
+    "name": "ichiban",
+    "trans": [
+      "best,first,number one"
+    ],
+    "notation": "いちばん"
+  },
+  {
+    "name": "eiga",
+    "notation": "映画(えいが)"
+  },
+  {
+    "name": "ame",
+    "notation": "飴(あめ)"
+  },
+  {
+    "name": "neru",
+    "notation": "寝(ね)る"
+  },
+  {
+    "name": "iriguchi",
+    "notation": "入口(いりぐち)"
+  },
+  {
+    "name": "jouzu",
+    "notation": "上手(じょうず)"
+  },
+  {
+    "name": "chiisana",
+    "notation": "小(ちい)さな"
+  },
+  {
+    "name": "kudamono",
+    "notation": "果物(くだもの)"
+  },
+  {
+    "name": "socchi",
+    "notation": "そっち"
+  },
+  {
+    "name": "gyuuniku",
+    "notation": "牛肉(ぎゅうにく)"
+  },
+  {
+    "name": "kekkou",
+    "notation": "結構(けっこう)"
+  },
+  {
+    "name": "oboeru",
+    "notation": "覚(おぼ)える"
+  },
+  {
+    "name": "umareru",
+    "notation": "生(う)まれる"
+  },
+  {
+    "name": "karada",
+    "notation": "体(からだ)"
+  },
+  {
+    "name": "ninin",
+    "notation": "二(に)人(にん)"
+  },
+  {
+    "name": "tomodachi",
+    "notation": "友達(ともだち)"
+  },
+  {
+    "name": "yoru",
+    "trans": [
+      "evening,night"
+    ],
+    "notation": "夜(よる)"
+  },
+  {
+    "name": "juu",
+    "trans": [
+      "10,ten"
+    ],
+    "notation": "十(じゅう)"
+  },
+  {
+    "name": "otouto",
+    "notation": "弟(おとうと)"
+  },
+  {
+    "name": "dono",
+    "notation": "どの"
+  },
+  {
+    "name": "akai",
+    "notation": "赤(あか)い"
+  },
+  {
+    "name": "mondai",
+    "notation": "問題(もんだい)"
+  },
+  {
+    "name": "kazoku",
+    "notation": "家族(かぞく)"
+  },
+  {
+    "name": "ashi",
+    "notation": "足(あし)"
+  },
+  {
+    "name": "matsu",
+    "trans": [
+      "(1) pine tree,(2) highest (of a three-tier ranking system)"
+    ],
+    "notation": "待(ま)つ"
+  },
+  {
+    "name": "tsukau",
+    "notation": "使(つか)う"
+  },
+  {
+    "name": "go",
+    "notation": "五(ご)"
+  },
+  {
+    "name": "deha",
+    "trans": [
+      "chance of going out,opportunity (to succeed),moment of departure,beginning of work"
+    ],
+    "notation": "では"
+  },
+  {
+    "name": "tabun",
+    "trans": [
+      "perhaps,probably"
+    ],
+    "notation": "多分(たぶん)"
+  },
+  {
+    "name": "tomaru",
+    "notation": "止(と)まる"
+  },
+  {
+    "name": "tanjoubi",
+    "notation": "誕生(たんじょう)日(び)"
+  },
+  {
+    "name": "firumu",
+    "notation": "フィルム"
+  },
+  {
+    "name": "namae",
+    "notation": "名前(なまえ)"
+  },
+  {
+    "name": "ano",
+    "notation": "あの"
+  },
+  {
+    "name": "konshuu",
+    "notation": "今週(こんしゅう)"
+  },
+  {
+    "name": "iku",
+    "notation": "行(い)く"
+  },
+  {
+    "name": "sarainen",
+    "notation": "さ来年(らいねん)"
+  },
+  {
+    "name": "supoutsu",
+    "notation": "スポーツ"
+  },
+  {
+    "name": "mizu",
+    "notation": "水(みず)"
+  },
+  {
+    "name": "kaze",
+    "notation": "風(かぜ)"
+  },
+  {
+    "name": "han",
+    "notation": "半(はん)"
+  },
+  {
+    "name": "karee",
+    "notation": "カレー"
+  },
+  {
+    "name": "pen",
+    "notation": "ペン"
+  },
+  {
+    "name": "heya",
+    "notation": "部屋(へや)"
+  },
+  {
+    "name": "toru",
+    "notation": "撮(と)る"
+  },
+  {
+    "name": "meetoru",
+    "notation": "メートル"
+  },
+  {
+    "name": "yon",
+    "trans": [
+      "four"
+    ],
+    "notation": "四(よん)"
+  },
+  {
+    "name": "hoka",
+    "notation": "ほか"
+  },
+  {
+    "name": "yomu",
+    "notation": "読(よ)む"
+  },
+  {
+    "name": "iu",
+    "trans": [
+      "to say"
+    ],
+    "notation": "言(い)う"
+  },
+  {
+    "name": "butaniku",
+    "notation": "豚肉(ぶたにく)"
+  },
+  {
+    "name": "sentaku",
+    "trans": [
+      "selection,choice"
+    ],
+    "notation": "洗濯(せんたく)"
+  },
+  {
+    "name": "sumu",
+    "notation": "住(す)む"
+  },
+  {
+    "name": "kouhii",
+    "notation": "コーヒー"
+  },
+  {
+    "name": "hima",
+    "notation": "暇(ひま)"
+  },
+  {
+    "name": "demo",
+    "trans": [
+      "but,however"
+    ],
+    "notation": "でも"
+  },
+  {
+    "name": "ichinin",
+    "notation": "一(いち)人(にん)"
+  },
+  {
+    "name": "apaato",
+    "notation": "アパート"
+  },
+  {
+    "name": "mae",
+    "notation": "前(まえ)"
+  },
+  {
+    "name": "kudasai",
+    "notation": "ください"
+  },
+  {
+    "name": "niwa",
+    "notation": "庭(にわ)"
+  },
+  {
+    "name": "imi",
+    "notation": "意味(いみ)"
+  },
+  {
+    "name": "semai",
+    "notation": "狭(せま)い"
+  },
+  {
+    "name": "kyou",
+    "trans": [
+      "today,this day"
+    ],
+    "notation": "今日(きょう)"
+  },
+  {
+    "name": "tsukareru",
+    "notation": "疲(つか)れる"
+  },
+  {
+    "name": "soto",
+    "trans": [
+      "other place,the rest"
+    ],
+    "notation": "外(そと)"
+  },
+  {
+    "name": "sengetsu",
+    "notation": "先月(せんげつ)"
+  },
+  {
+    "name": "megane",
+    "notation": "眼鏡(めがね)"
+  },
+  {
+    "name": "shiroi",
+    "notation": "白(しろ)い"
+  },
+  {
+    "name": "enpitsu",
+    "notation": "鉛筆(えんぴつ)"
+  },
+  {
+    "name": "kaesu",
+    "notation": "返(かえ)す"
+  },
+  {
+    "name": "hajime/hajime",
+    "notation": "初(はじ)め/始(はじ)め"
+  },
+  {
+    "name": "tabemono",
+    "notation": "食(た)べ物(もの)"
+  },
+  {
+    "name": "douzo",
+    "notation": "どうぞ"
+  },
+  {
+    "name": "aoi",
+    "notation": "青(あお)い"
+  },
+  {
+    "name": "kono",
+    "trans": [
+      "this"
+    ],
+    "notation": "この"
+  },
+  {
+    "name": "nijuunichi",
+    "notation": "二(に)十(じゅう)日(にち)"
+  },
+  {
+    "name": "saifu",
+    "notation": "財布(さいふ)"
+  },
+  {
+    "name": "gakkou",
+    "notation": "学校(がっこう)"
+  },
+  {
+    "name": "ichinichi",
+    "notation": "一(いち)日(にち)"
+  },
+  {
+    "name": "bourupen",
+    "notation": "ボールペン"
+  },
+  {
+    "name": "oneesan",
+    "notation": "お姉(ねえ)さん"
+  },
+  {
+    "name": "suzushii",
+    "notation": "涼(すず)しい"
+  },
+  {
+    "name": "atarashii",
+    "notation": "新(あたら)しい"
+  },
+  {
+    "name": "zubon",
+    "notation": "ズボン"
+  },
+  {
+    "name": "ireru",
+    "notation": "入(い)れる"
+  },
+  {
+    "name": "kokonotsu",
+    "notation": "九(ここの)つ"
+  },
+  {
+    "name": "mannenhitsu",
+    "notation": "万年筆(まんねんひつ)"
+  },
+  {
+    "name": "onaka",
+    "trans": [
+      "stomach"
+    ],
+    "notation": "おなか"
+  },
+  {
+    "name": "kyoudai",
+    "notation": "兄弟(きょうだい)"
+  },
+  {
+    "name": "tatsu",
+    "trans": [
+      "to pass,to lapse"
+    ],
+    "notation": "立(た)つ"
+  },
+  {
+    "name": "posuto",
+    "notation": "ポスト"
+  },
+  {
+    "name": "naze",
+    "notation": "なぜ"
+  },
+  {
+    "name": "dekiru",
+    "trans": [
+      "to be able to,to be ready,to occur"
+    ],
+    "notation": "できる"
+  },
+  {
+    "name": "nekutai",
+    "notation": "ネクタイ"
+  },
+  {
+    "name": "teeburu",
+    "notation": "テーブル"
+  },
+  {
+    "name": "yasui",
+    "notation": "安(やす)い"
+  },
+  {
+    "name": "soba",
+    "notation": "そば"
+  },
+  {
+    "name": "eigakan",
+    "notation": "映画(えいが)館(かん)"
+  },
+  {
+    "name": "mada",
+    "notation": "まだ"
+  },
+  {
+    "name": "densha",
+    "notation": "電車(でんしゃ)"
+  },
+  {
+    "name": "sakana",
+    "trans": [
+      "fish"
+    ],
+    "notation": "魚(さかな)"
+  },
+  {
+    "name": "kasa",
+    "notation": "傘(かさ)"
+  },
+  {
+    "name": "maishuu",
+    "notation": "毎週(まいしゅう)"
+  },
+  {
+    "name": "otona",
+    "notation": "大人(おとな)"
+  },
+  {
+    "name": "uru",
+    "notation": "売(う)る"
+  },
+  {
+    "name": "hanashi",
+    "notation": "話(はなし)"
+  },
+  {
+    "name": "kuroi",
+    "notation": "黒(くろ)い"
+  },
+  {
+    "name": "aki",
+    "trans": [
+      "room,time to spare,emptiness"
+    ],
+    "notation": "秋(あき)"
+  },
+  {
+    "name": "minasan",
+    "notation": "皆(みな)さん"
+  },
+  {
+    "name": "sukoshi",
+    "notation": "少(すこ)し"
+  },
+  {
+    "name": "gozen",
+    "notation": "午前(ごぜん)"
+  },
+  {
+    "name": "seetaa",
+    "notation": "セーター"
+  },
+  {
+    "name": "senshuu",
+    "notation": "先週(せんしゅう)"
+  },
+  {
+    "name": "akeru",
+    "trans": [
+      "to dawn,to become daylight"
+    ],
+    "notation": "開(あ)ける"
+  },
+  {
+    "name": "ano",
+    "notation": "あの"
+  },
+  {
+    "name": "se",
+    "trans": [
+      "height,stature"
+    ],
+    "notation": "背(せ)"
+  },
+  {
+    "name": "furu",
+    "trans": [
+      "(1) to wave,to shake,to swing,(2) to sprinkle,(3) to cast (actor),to allocate (work)"
+    ],
+    "notation": "降(ふ)る"
+  },
+  {
+    "name": "muzukashii",
+    "notation": "難(むずか)しい"
+  },
+  {
+    "name": "machi",
+    "trans": [
+      "(1) town,(2) street,road"
+    ],
+    "notation": "町(まち)"
+  },
+  {
+    "name": "san",
+    "notation": "三(さん)"
+  },
+  {
+    "name": "kore",
+    "notation": "これ"
+  },
+  {
+    "name": "kotaeru",
+    "notation": "答(こた)える"
+  },
+  {
+    "name": "kissaten",
+    "notation": "喫茶店(きっさてん)"
+  },
+  {
+    "name": "amari",
+    "trans": [
+      "not very (used as adverb),not much"
+    ],
+    "notation": "あまり"
+  },
+  {
+    "name": "kasu",
+    "notation": "貸(か)す"
+  },
+  {
+    "name": "shimeru",
+    "trans": [
+      "(1) to comprise,to account for,to make up (of),(2) to hold,to occupy"
+    ],
+    "notation": "締(し)める"
+  },
+  {
+    "name": "okusan",
+    "notation": "奥(おく)さん"
+  },
+  {
+    "name": "inu",
+    "notation": "犬(いぬ)"
+  },
+  {
+    "name": "yaoya",
+    "notation": "八百屋(やおや)"
+  },
+  {
+    "name": "hiru",
+    "notation": "昼(ひる)"
+  },
+  {
+    "name": "omoi",
+    "notation": "重(おも)い"
+  },
+  {
+    "name": "haru",
+    "trans": [
+      "to stick,to paste"
+    ],
+    "notation": "貼(は)る"
+  },
+  {
+    "name": "taisetsu",
+    "notation": "大切(たいせつ)"
+  },
+  {
+    "name": "toshi",
+    "trans": [
+      "town,city,municipal,urban"
+    ],
+    "notation": "年(とし)"
+  },
+  {
+    "name": "hairu",
+    "notation": "入(はい)る"
+  },
+  {
+    "name": "juunichi",
+    "notation": "十(じゅう)日(にち)"
+  },
+  {
+    "name": "shimeru",
+    "trans": [
+      "(1) to comprise,to account for,to make up (of),(2) to hold,to occupy"
+    ],
+    "notation": "閉(し)める"
+  },
+  {
+    "name": "hajimete",
+    "notation": "初(はじ)めて"
+  },
+  {
+    "name": "futatsu",
+    "notation": "二(ふた)つ"
+  },
+  {
+    "name": "rokunichi",
+    "notation": "六(ろく)日(にち)"
+  },
+  {
+    "name": "kousaten",
+    "notation": "交差点(こうさてん)"
+  },
+  {
+    "name": "kinou",
+    "trans": [
+      "function,faculty"
+    ],
+    "notation": "昨日(きのう)"
+  },
+  {
+    "name": "dandan",
+    "notation": "だんだん"
+  },
+  {
+    "name": "ofuro",
+    "notation": "お風呂(ふろ)"
+  },
+  {
+    "name": "hitotsu",
+    "notation": "一(ひと)つ"
+  },
+  {
+    "name": "asobu",
+    "notation": "遊(あそ)ぶ"
+  },
+  {
+    "name": "kutsushita",
+    "notation": "靴下(くつした)"
+  },
+  {
+    "name": "yoku",
+    "notation": "よく"
+  },
+  {
+    "name": "nakusu",
+    "notation": "無(な)くす"
+  },
+  {
+    "name": "yuumei",
+    "notation": "有名(ゆうめい)"
+  },
+  {
+    "name": "genki",
+    "notation": "元気(げんき)"
+  },
+  {
+    "name": "katei",
+    "notation": "家庭(かてい)"
+  },
+  {
+    "name": "kotoba",
+    "notation": "言葉(ことば)"
+  },
+  {
+    "name": "kurasu",
+    "trans": [
+      "to live,to get along"
+    ],
+    "notation": "クラス"
+  },
+  {
+    "name": "shikashi",
+    "notation": "しかし"
+  },
+  {
+    "name": "dare",
+    "notation": "誰(だれ)"
+  },
+  {
+    "name": "hito",
+    "notation": "人(ひと)"
+  },
+  {
+    "name": "iie",
+    "notation": "いいえ"
+  },
+  {
+    "name": "mittsu",
+    "notation": "三(みっ)つ"
+  },
+  {
+    "name": "yasumu",
+    "notation": "休(やす)む"
+  },
+  {
+    "name": "kuchi",
+    "notation": "口(くち)"
+  },
+  {
+    "name": "benri",
+    "notation": "便利(べんり)"
+  },
+  {
+    "name": "chawan",
+    "notation": "茶碗(ちゃわん)"
+  },
+  {
+    "name": "yori",
+    "trans": [
+      "hou"
+    ],
+    "notation": ""
+  },
+  {
+    "name": "tsuku",
+    "trans": [
+      "to settle in (place),to take (seat, position),to study (under teacher)"
+    ],
+    "notation": "着(つ)く"
+  },
+  {
+    "name": "ninichi",
+    "notation": "二(に)日(にち)"
+  },
+  {
+    "name": "magaru",
+    "notation": "曲(まが)る"
+  },
+  {
+    "name": "bunshou",
+    "notation": "文章(ぶんしょう)"
+  },
+  {
+    "name": "kita",
+    "notation": "北(きた)"
+  },
+  {
+    "name": "kakeru",
+    "trans": [
+      "to be lacking"
+    ],
+    "notation": "かける"
+  },
+  {
+    "name": "suwaru",
+    "notation": "座(すわ)る"
+  },
+  {
+    "name": "gohan",
+    "notation": "御飯(ごはん)"
+  },
+  {
+    "name": "wataru",
+    "notation": "渡(わた)る"
+  },
+  {
+    "name": "chikai",
+    "notation": "近(ちか)い"
+  },
+  {
+    "name": "itsutsu",
+    "notation": "五(いつ)つ"
+  },
+  {
+    "name": "yoko",
+    "notation": "横(よこ)"
+  },
+  {
+    "name": "beddo",
+    "notation": "ベッド"
+  },
+  {
+    "name": "obentou",
+    "notation": "お弁当(べんとう)"
+  },
+  {
+    "name": "kuruma",
+    "notation": "車(くるま)"
+  },
+  {
+    "name": "maiban",
+    "notation": "毎晩(まいばん)"
+  },
+  {
+    "name": "sakubun",
+    "notation": "作文(さくぶん)"
+  },
+  {
+    "name": "michi",
+    "notation": "道(みち)"
+  },
+  {
+    "name": "dore",
+    "trans": [
+      "well,now,let me see,which (of three or more)"
+    ],
+    "notation": "どれ"
+  },
+  {
+    "name": "mise",
+    "notation": "店(みせ)"
+  },
+  {
+    "name": "ja/jaa",
+    "notation": "じゃ/じゃあ"
+  },
+  {
+    "name": "byouin",
+    "notation": "病院(びょういん)"
+  },
+  {
+    "name": "atsui",
+    "notation": "暑(あつ)い"
+  },
+  {
+    "name": "mukou",
+    "notation": "向(む)こう"
+  },
+  {
+    "name": "amai",
+    "notation": "甘(あま)い"
+  },
+  {
+    "name": "mado",
+    "notation": "窓(まど)"
+  },
+  {
+    "name": "abunai",
+    "notation": "危(あぶ)ない"
+  },
+  {
+    "name": "fuku",
+    "notation": "吹(ふ)く"
+  },
+  {
+    "name": "reizouko",
+    "notation": "冷蔵庫(れいぞうこ)"
+  },
+  {
+    "name": "jikan",
+    "notation": "時間(じかん)"
+  },
+  {
+    "name": "fuyu",
+    "notation": "冬(ふゆ)"
+  },
+  {
+    "name": "kopiisuru",
+    "notation": "コピーする"
+  },
+  {
+    "name": "rajio",
+    "notation": "ラジオ"
+  },
+  {
+    "name": "akai",
+    "notation": "明(あか)い"
+  },
+  {
+    "name": "gaikokujin",
+    "notation": "外国(がいこく)人(じん)"
+  },
+  {
+    "name": "hidari",
+    "notation": "左(ひだり)"
+  },
+  {
+    "name": "hankachi",
+    "notation": "ハンカチ"
+  },
+  {
+    "name": "karendaa",
+    "notation": "カレンダー"
+  },
+  {
+    "name": "yuki",
+    "notation": "雪(ゆき)"
+  }
+]

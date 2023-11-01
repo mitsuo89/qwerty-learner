@@ -2411,6 +2411,17 @@ const programming: DictionaryResource[] = [
 // 日语词典
 const japaneseExam: DictionaryResource[] = [
   {
+    id: 'japanese000',
+    name: 'local日语常见词',
+    description: 'local日语常见词',
+    category: '日语学习',
+    tags: ['基础'],
+    url: '/dicts/JapVocabList.N.json',
+    length: 1583,
+    language: 'romaji',
+    languageCategory: 'ja',
+  },
+  {
     id: 'japanese001',
     name: '日语常见词',
     description: '日语常用单词',
