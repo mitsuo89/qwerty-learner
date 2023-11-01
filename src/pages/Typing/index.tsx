@@ -124,8 +124,6 @@ const App: React.FC = () => {
 
   return (
     <TypingContext.Provider value={{ state: state, dispatch }}>
-      <StarCard />
-      {state.isFinished && <DonateCard />}
       {state.isFinished && <ResultScreen />}
       <Layout>
         <Header>
@@ -169,7 +167,6 @@ const App: React.FC = () => {
           </div>
         </div>
       </Layout>
-      <WordList />
     </TypingContext.Provider>
   )
 }
